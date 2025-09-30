@@ -413,6 +413,21 @@ class SEOAnalyzer {
         const internalLinks = [];
         const externalLinks = [];
         
+        // Social media domains to exclude from external links
+        const socialMediaDomains = [
+            'facebook.com', 'fb.com', 'm.facebook.com',
+            'twitter.com', 't.co', 'x.com',
+            'instagram.com', 'linkedin.com',
+            'youtube.com', 'youtu.be',
+            'pinterest.com', 'tiktok.com',
+            'snapchat.com', 'whatsapp.com',
+            'telegram.org', 'discord.com',
+            'reddit.com', 'tumblr.com',
+            'flickr.com', 'vimeo.com',
+            'medium.com', 'github.com',
+            'bit.ly', 'tinyurl.com', 'goo.gl'
+        ];
+        
         links.each((_, link) => {
             const href = $(link).attr('href');
             const anchorText = $(link).text().trim();
@@ -438,8 +453,15 @@ class SEOAnalyzer {
                         internalLinksCount++;
                         internalLinks.push(linkData);
                     } else {
-                        externalLinksCount++;
-                        externalLinks.push(linkData);
+                        // Check if it's a social media link
+                        const isSocialMedia = socialMediaDomains.some(domain => 
+                            url.hostname === domain || url.hostname.endsWith('.' + domain)
+                        );
+                        
+                        if (!isSocialMedia) {
+                            externalLinksCount++;
+                            externalLinks.push(linkData);
+                        }
                     }
                 } catch (e) {
                     // Invalid URL, skip
@@ -691,7 +713,7 @@ class SEOAnalyzer {
             
             // Calculate size from base64 data
             const sizeInBytes = Math.round((data.length * 3) / 4);
-            const sizeInKb = Math.round((sizeInBytes / 1024) * 100) / 100;
+            const sizeInKb = Math.round((sizeInBytes / 1000) * 100) / 100;
             
             return { contentType, sizeInBytes, sizeInKb };
         }
@@ -744,7 +766,7 @@ class SEOAnalyzer {
             const contentLength = response.headers['content-length'];
             if (contentLength) {
                 sizeInBytes = parseInt(contentLength, 10);
-                sizeInKb = Math.round((sizeInBytes / 1024) * 100) / 100;
+                sizeInKb = Math.round((sizeInBytes / 1000) * 100) / 100;
             }
             
             // Update content type from response headers if available
