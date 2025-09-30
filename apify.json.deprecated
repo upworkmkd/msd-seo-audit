@@ -1,0 +1,12 @@
+{
+  "actorSpecification": 1,
+  "name": "msd-seo-audit",
+  "title": "MSD SEO Audit Actor",
+  "description": "Comprehensive SEO audit actor that analyzes websites for technical SEO, content quality, and performance metrics",
+  "version": "1.0",
+  "meta": {
+    "templateId": "puppeteer_single_page"
+  },
+  "input": "./input_schema.json",
+  "dockerfile": "./Dockerfile"
+}

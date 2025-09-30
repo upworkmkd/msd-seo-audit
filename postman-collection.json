@@ -1,0 +1,141 @@
+{
+	"info": {
+		"_postman_id": "msd-seo-audit-api",
+		"name": "MSD SEO Audit API",
+		"description": "Collection for testing the MSD SEO Audit API locally",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Health Check",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/health",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"health"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Single Page Analysis",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"url\": \"https://example.com\",\n  \"includeImages\": true,\n  \"maxImagesPerPage\": 10\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/analyze",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"analyze"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Single Page Analysis (with custom user agent)",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"url\": \"https://www.briedesrivieresetchateaux.fr\",\n  \"includeImages\": true,\n  \"maxImagesPerPage\": 20,\n  \"userAgent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/analyze",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"analyze"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Batch Analysis",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"urls\": [\n    \"https://example.com\",\n    \"https://www.briedesrivieresetchateaux.fr\",\n    \"https://www.google.com\"\n  ],\n  \"includeImages\": true,\n  \"maxImagesPerPage\": 10\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/analyze-batch",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"analyze-batch"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Sitemap Analysis",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"domain\": \"https://www.briedesrivieresetchateaux.fr\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/analyze-sitemap",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"analyze-sitemap"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

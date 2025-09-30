@@ -1,0 +1,92 @@
+{
+  "title": "MSD SEO Audit Input",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "startUrls": {
+      "title": "Start URLs",
+      "type": "array",
+      "description": "Array of URLs to start crawling from",
+      "editor": "stringList",
+      "prefill": ["https://example.com"]
+    },
+    "maxRequestsPerCrawl": {
+      "title": "Max Pages to Crawl",
+      "type": "integer",
+      "description": "Maximum number of pages to crawl and analyze",
+      "minimum": 1,
+      "maximum": 100,
+      "default": 5,
+      "editor": "number"
+    },
+    "crawlUrls": {
+      "title": "Crawl URLs",
+      "type": "boolean",
+      "description": "Whether to crawl and analyze multiple pages from the website",
+      "default": true,
+      "editor": "checkbox"
+    },
+    "includeImages": {
+      "title": "Include Image Analysis",
+      "type": "boolean",
+      "description": "Whether to analyze images for alt text and optimization",
+      "default": true,
+      "editor": "checkbox"
+    },
+    "maxImagesPerPage": {
+      "title": "Max Images Per Page",
+      "type": "integer",
+      "description": "Maximum number of images to analyze per page",
+      "minimum": 1,
+      "maximum": 50,
+      "default": 10,
+      "editor": "number"
+    },
+    "waitForPageLoad": {
+      "title": "Wait for Page Load",
+      "type": "integer",
+      "description": "Time to wait for page to fully load (in milliseconds)",
+      "minimum": 1000,
+      "maximum": 10000,
+      "default": 3000,
+      "editor": "number"
+    },
+    "userAgent": {
+      "title": "User Agent",
+      "type": "string",
+      "description": "User agent string to use for requests",
+      "default": "Mozilla/5.0 (compatible; MSD-SEO-Audit/1.0)",
+      "editor": "textfield"
+    },
+    "viewportWidth": {
+      "title": "Viewport Width",
+      "type": "integer",
+      "description": "Browser viewport width in pixels",
+      "default": 1920,
+      "editor": "number"
+    },
+    "viewportHeight": {
+      "title": "Viewport Height",
+      "type": "integer",
+      "description": "Browser viewport height in pixels",
+      "default": 1080,
+      "editor": "number"
+    },
+    "includeSitemapAnalysis": {
+      "title": "Include Sitemap Analysis",
+      "type": "boolean",
+      "description": "Whether to perform domain-level sitemap analysis",
+      "default": true,
+      "editor": "checkbox"
+    },
+    "sitemapTimeout": {
+      "title": "Sitemap Analysis Timeout",
+      "type": "integer",
+      "description": "Timeout for sitemap analysis requests (in milliseconds)",
+      "minimum": 1000,
+      "maximum": 30000,
+      "default": 10000,
+      "editor": "number"
+    }
+  }
+}

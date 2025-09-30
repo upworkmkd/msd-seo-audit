@@ -1,0 +1,8 @@
+{
+  "startUrls": ["https://example.com"],
+  "maxRequestsPerCrawl": 1,
+  "crawlUrls": true,
+  "includeImages": true,
+  "maxImagesPerPage": 5,
+  "waitForPageLoad": 3000
+}
