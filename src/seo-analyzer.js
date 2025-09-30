@@ -441,6 +441,21 @@ class SEOAnalyzer {
                     const url = new URL(href, baseUrl);
                     const baseHost = new URL(baseUrl).hostname;
                     
+                    // Skip hash-only links (fragments pointing to same page)
+                    const baseUrlObj = new URL(baseUrl);
+                    const isHashOnlyLink = (
+                        url.href === baseUrl + '#' || 
+                        url.href === baseUrl + '#content' ||
+                        (url.pathname === baseUrlObj.pathname && url.hash && url.hash !== '') ||
+                        (url.pathname === '/' && url.hash && url.hash !== '') ||
+                        (url.pathname.endsWith('/') && url.hash && url.hash !== '' && url.pathname === baseUrlObj.pathname) ||
+                        href.endsWith('#') // Links ending with just #
+                    );
+                    
+                    if (isHashOnlyLink) {
+                        return; // Skip this link
+                    }
+                    
                     const linkData = {
                         url: url.href,
                         anchorText: anchorText,
