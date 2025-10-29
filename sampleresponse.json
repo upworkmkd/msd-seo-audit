@@ -1,0 +1,2788 @@
+[
+    {
+        "domain": {
+            "domain_name": "mysmartdigital.fr",
+            "total_pages_analyzed": 5,
+            "average_seo_score": 85.4,
+            "overall_grade": "B",
+            "seo_score": 85.4,
+            "seo_grade": "B",
+            "pages_with_h1": 5,
+            "pages_with_h1_percentage": 100,
+            "pages_with_meta_description": 5,
+            "pages_with_meta_description_percentage": 100,
+            "pages_with_images": 5,
+            "pages_with_images_percentage": 100,
+            "pages_with_errors": 0,
+            "pages_with_errors_percentage": 0,
+            "average_title_length": 61,
+            "average_description_length": 149,
+            "average_words_per_page": 1397,
+            "average_internal_links": 26,
+            "pages_with_successful_status": 5,
+            "pages_with_successful_status_percentage": 100,
+            "pages_with_redirect_status": 0,
+            "pages_with_redirect_status_percentage": 0,
+            "pages_with_error_status": 0,
+            "pages_with_error_status_percentage": 0,
+            "pages_with_opengraph": 5,
+            "pages_with_opengraph_percentage": 100,
+            "pages_with_opengraph_title": 5,
+            "pages_with_opengraph_title_percentage": 100,
+            "pages_with_opengraph_description": 5,
+            "pages_with_opengraph_description_percentage": 100,
+            "pages_with_opengraph_image": 5,
+            "pages_with_opengraph_image_percentage": 100,
+            "ssl_certificate_info": {
+                "is_valid": true,
+                "valid_until": "Dec 20 06:39:07 2025 GMT",
+                "days_until_expiry": 53,
+                "issuer": "WE1",
+                "subject": "mysmartdigital.fr",
+                "serial_number": "9ABC9A0D1B47D9BB0E595E90E531C277",
+                "fingerprint": "CC:6C:FF:55:84:C8:08:2C:7D:13:EB:63:78:A0:AB:0C:FB:00:BB:A5",
+                "status": "valid"
+            },
+            "sitemap_info": {
+                "has_sitemap": true,
+                "sitemap_urls": [],
+                "sitemap_types": [
+                    "sitemap_index"
+                ],
+                "sitemap_url": "https://mysmartdigital.fr/sitemap_index.xml",
+                "sitemap_size": 3
+            }
+        },
+        "pages": [
+            {
+                "url": "https://mysmartdigital.fr/",
+                "title": "Agence Wordpress | Liberez le potentiel de votre site WordPress !",
+                "titleLength": 65,
+                "titleDuplicateWords": 1,
+                "allTitles": [
+                    "Agence Wordpress | Liberez le potentiel de votre site WordPress !"
+                ],
+                "titleCount": 1,
+                "headTitleCount": 1,
+                "description": "Faites confiance à notre agence experte en WordPress pour la création, la maintenance et l'optimisation de votre site.",
+                "descriptionLength": 118,
+                "iframes": 0,
+                "language": "fr-FR",
+                "hreflang": false,
+                "domainLength": 17,
+                "pageStatusCode": 200,
+                "pageHttpsStatus": true,
+                "viewport": true,
+                "mobileResponsive": true,
+                "charset": true,
+                "favicon": true,
+                "h1": [
+                    "Agence WordPress"
+                ],
+                "h2": [
+                    "Un WordPress  plus simple performant rapide intelligent",
+                    "Développement de site WordPress",
+                    "Maintenance de site WordPress",
+                    "Optimisation des performances WordPress"
+                ],
+                "h3": [],
+                "h4": [],
+                "h5": [],
+                "h6": [],
+                "h1Count": 1,
+                "h2Count": 4,
+                "h3Count": 0,
+                "h4Count": 0,
+                "h5Count": 0,
+                "h6Count": 0,
+                "words": 959,
+                "wordcount": 959,
+                "wordcountcontentonly": 876,
+                "totalwordcount": 9302,
+                "paragraphs": 23,
+                "loremIpsum": false,
+                "appleTouchIcon": true,
+                "strongTags": 4,
+                "internalLinks": [
+                    {
+                        "url": "https://mysmartdigital.fr/",
+                        "anchorText": "<img class=\"pix-logo\" height=\"40\" width=\"102.85714285714\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\" >\n                                                            <img width=\"450\" height=\"175\" class=\"pix-logo-scroll\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\">",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "Développement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "Maintenance WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/optimisation-performance-wordpress/",
+                        "anchorText": "Optimisation des performances",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                        "anchorText": "Hebergement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
+                        "anchorText": "Blog",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/",
+                        "anchorText": "<img src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" height=\"45\" width=\"115.71428571429\" style=\"height:45px;width:auto;\">",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "Développement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "Maintenance WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                        "anchorText": "Hebergement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "L’Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
+                        "anchorText": "Le Blog",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "En savoir plus",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "En savoir plus",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/optimisation-wordpress-performance-de-site-qualitative/",
+                        "anchorText": "En savoir plus",
+                        "statusCode": 404,
+                        "isBroken": true,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    }
+                ],
+                "internalLinksCount": 28,
+                "externalLinks": [
+                    {
+                        "url": "http://app.mysmartdigital.fr/",
+                        "anchorText": "Espace client",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "RÉSERVER UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://app.mysmartdigital.fr/",
+                        "anchorText": "Espace client",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "Je réserve un appel de découverte",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "JE RÉSERVE UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "JE RÉSERVE UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    }
+                ],
+                "externalLinksCount": 6,
+                "averageAnchorTextLength": 55,
+                "brokenInternalLinks": 1,
+                "brokenExternalLinks": 0,
+                "totalBrokenLinks": 1,
+                "brokenLinksPercentage": 3,
+                "imagesWithoutAlt": 16,
+                "hasGoogleAnalytics": false,
+                "hasHttps": true,
+                "hasJsonLd": true,
+                "hasMicrodata": true,
+                "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+                "xRobots": "",
+                "canonicalUrl": "https://mysmartdigital.fr/",
+                "hasOpenGraph": true,
+                "hasTwitterCards": true,
+                "openGraphData": {
+                    "title": "Agence Wordpress | Liberez le potentiel de votre site WordPress !",
+                    "description": "Faites confiance à notre agence experte en WordPress pour la création, la maintenance et l'optimisation de votre site.",
+                    "image": "https://mysmartdigital.fr/wp-content/uploads/2023/01/Logo_profil.png",
+                    "url": "https://mysmartdigital.fr/",
+                    "site_name": "My Smart Digital",
+                    "type": "website",
+                    "locale": "fr_FR",
+                    "images": [
+                        {
+                            "url": "https://mysmartdigital.fr/wp-content/uploads/2023/01/Logo_profil.png",
+                            "alt": null,
+                            "width": "400",
+                            "height": "400",
+                            "type": "image/png"
+                        }
+                    ]
+                },
+                "openGraphTags": {
+                    "og:locale": "fr_FR",
+                    "og:type": "website",
+                    "og:title": "Agence Wordpress | Liberez le potentiel de votre site WordPress !",
+                    "og:description": "Faites confiance à notre agence experte en WordPress pour la création, la maintenance et l'optimisation de votre site.",
+                    "og:url": "https://mysmartdigital.fr/",
+                    "og:site_name": "My Smart Digital",
+                    "og:image": "https://mysmartdigital.fr/wp-content/uploads/2023/01/Logo_profil.png",
+                    "og:image:width": "400",
+                    "og:image:height": "400",
+                    "og:image:type": "image/png"
+                },
+                "hasHreflang": false,
+                "hasAmp": false,
+                "hasSchema": true,
+                "images": [
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2040'%3E%3C/svg%3E",
+                        "imageIndex": 1,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20175'%3E%3C/svg%3E",
+                        "imageIndex": 2,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20115%2045'%3E%3C/svg%3E",
+                        "imageIndex": 3,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 4,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "Horizon Software",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 5,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "Inseec msc",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 6,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "Louis Dreyfus",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 7,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "Digital College",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20795%2094'%3E%3C/svg%3E",
+                        "imageIndex": 8,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "Datawords",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 9,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "Wezen",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E",
+                        "imageIndex": 10,
+                        "contentLength": 66,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 66,
+                        "sizeInKb": 0.07
+                    }
+                ],
+                "headingStructure": [
+                    {
+                        "tag": "h1",
+                        "level": 1,
+                        "text": "Agence WordPress",
+                        "position": 1
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Un WordPress  plus simple performant rapide intelligent",
+                        "position": 2
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Développement de site WordPress",
+                        "position": 3
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Maintenance de site WordPress",
+                        "position": 4
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Optimisation des performances WordPress",
+                        "position": 5
+                    }
+                ],
+                "headingScore": 73,
+                "seo_page_score": 75,
+                "seo_grade": "C",
+                "seo_category": "Good",
+                "seo_issues_count": 3,
+                "notes": "Issues: title too long, missing/short meta description, 16 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
+                "issues": [
+                    "title too long",
+                    "missing/short meta description",
+                    "16 images without alt text"
+                ],
+                "sitemap_url": "https://mysmartdigital.fr/sitemap_index.xml",
+                "hasSitemap": true,
+                "sitemap_type": "sitemap_index",
+                "sitemap_size": 3,
+                "statusCode": 200,
+                "analysis_date": "2025-10-28T17:26:44.001Z",
+                "data_source": "msd_seo_audit"
+            },
+            {
+                "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation",
+                "title": "Développement WordPress | Création de site & optimisation",
+                "titleLength": 57,
+                "titleDuplicateWords": 0,
+                "allTitles": [
+                    "Développement WordPress | Création de site & optimisation"
+                ],
+                "titleCount": 1,
+                "headTitleCount": 1,
+                "description": "Nous proposons un service de développement WordPress pour la création de site internet. Faites confiance à notre agence spécialisée Wordpress pour un résultat de qualité.",
+                "descriptionLength": 170,
+                "iframes": 0,
+                "language": "fr-FR",
+                "hreflang": false,
+                "domainLength": 17,
+                "pageStatusCode": 200,
+                "pageHttpsStatus": true,
+                "viewport": true,
+                "mobileResponsive": true,
+                "charset": true,
+                "favicon": true,
+                "h1": [
+                    "Développement WordPress"
+                ],
+                "h2": [
+                    "Découvrez la puissance de l’écosystème WordPress",
+                    "Responsive Design WordPress",
+                    "Référencement naturel WordPress",
+                    "Sécurité WordPress",
+                    "Une  question  concernant  le  développement  de  votre  site  web  ?"
+                ],
+                "h3": [],
+                "h4": [],
+                "h5": [],
+                "h6": [],
+                "h1Count": 1,
+                "h2Count": 5,
+                "h3Count": 0,
+                "h4Count": 0,
+                "h5Count": 0,
+                "h6Count": 0,
+                "words": 1643,
+                "wordcount": 1643,
+                "wordcountcontentonly": 1503,
+                "totalwordcount": 12172,
+                "paragraphs": 34,
+                "loremIpsum": false,
+                "appleTouchIcon": true,
+                "strongTags": 4,
+                "internalLinks": [
+                    {
+                        "url": "https://mysmartdigital.fr/",
+                        "anchorText": "<img class=\"pix-logo\" height=\"40\" width=\"102.85714285714\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\" >\n                                                            <img width=\"450\" height=\"175\" class=\"pix-logo-scroll\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\">",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "Développement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "Maintenance WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/optimisation-performance-wordpress/",
+                        "anchorText": "Optimisation des performances",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                        "anchorText": "Hebergement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
+                        "anchorText": "Blog",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/",
+                        "anchorText": "<img src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" height=\"45\" width=\"115.71428571429\" style=\"height:45px;width:auto;\">",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "Développement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "Maintenance WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                        "anchorText": "Hebergement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "L’Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
+                        "anchorText": "Le Blog",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    }
+                ],
+                "internalLinksCount": 25,
+                "externalLinks": [
+                    {
+                        "url": "http://app.mysmartdigital.fr/",
+                        "anchorText": "Espace client",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "RÉSERVER UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://app.mysmartdigital.fr/",
+                        "anchorText": "Espace client",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "OBTENIR UN DEVIS",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "OBTENIR UN DEVIS",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "Parler à un expert",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "JE RÉSERVE UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "JE RÉSERVE UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    }
+                ],
+                "externalLinksCount": 8,
+                "averageAnchorTextLength": 27,
+                "brokenInternalLinks": 0,
+                "brokenExternalLinks": 0,
+                "totalBrokenLinks": 0,
+                "brokenLinksPercentage": 0,
+                "imagesWithoutAlt": 29,
+                "hasGoogleAnalytics": false,
+                "hasHttps": true,
+                "hasJsonLd": true,
+                "hasMicrodata": true,
+                "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+                "xRobots": "",
+                "canonicalUrl": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                "hasOpenGraph": true,
+                "hasTwitterCards": true,
+                "openGraphData": {
+                    "title": "Développement WordPress | Création de site & optimisation",
+                    "description": "Nous proposons un service de développement WordPress pour la création de site internet. Faites confiance à notre agence spécialisée Wordpress pour un résultat de qualité.",
+                    "image": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
+                    "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                    "site_name": "My Smart Digital",
+                    "type": "article",
+                    "locale": "fr_FR",
+                    "images": [
+                        {
+                            "url": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "type": null
+                        }
+                    ]
+                },
+                "openGraphTags": {
+                    "og:locale": "fr_FR",
+                    "og:type": "article",
+                    "og:title": "Développement WordPress | Création de site & optimisation",
+                    "og:description": "Nous proposons un service de développement WordPress pour la création de site internet. Faites confiance à notre agence spécialisée Wordpress pour un résultat de qualité.",
+                    "og:url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                    "og:site_name": "My Smart Digital",
+                    "og:image": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png"
+                },
+                "hasHreflang": false,
+                "hasAmp": false,
+                "hasSchema": true,
+                "images": [
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2040'%3E%3C/svg%3E",
+                        "imageIndex": 1,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20175'%3E%3C/svg%3E",
+                        "imageIndex": 2,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20115%2045'%3E%3C/svg%3E",
+                        "imageIndex": 3,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 4,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 5,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 6,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 7,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 8,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 9,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 10,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    }
+                ],
+                "headingStructure": [
+                    {
+                        "tag": "h1",
+                        "level": 1,
+                        "text": "Développement WordPress",
+                        "position": 1
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Découvrez la puissance de l’écosystème WordPress",
+                        "position": 2
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Responsive Design WordPress",
+                        "position": 3
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Référencement naturel WordPress",
+                        "position": 4
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Sécurité WordPress",
+                        "position": 5
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Une  question  concernant  le  développement  de  votre  site  web  ?",
+                        "position": 6
+                    }
+                ],
+                "headingScore": 71,
+                "seo_page_score": 89,
+                "seo_grade": "B",
+                "seo_category": "Excellent",
+                "seo_issues_count": 2,
+                "notes": "Issues: meta description too long, 29 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
+                "issues": [
+                    "meta description too long",
+                    "29 images without alt text"
+                ],
+                "sitemap_url": "https://mysmartdigital.fr/sitemap_index.xml",
+                "hasSitemap": true,
+                "sitemap_type": "sitemap_index",
+                "sitemap_size": 3,
+                "statusCode": 200,
+                "analysis_date": "2025-10-28T17:26:49.469Z",
+                "data_source": "msd_seo_audit"
+            },
+            {
+                "url": "https://mysmartdigital.fr/maintenance-wordpress",
+                "title": "Maintenance WordPress | Experts spécialisés pour votre site !",
+                "titleLength": 61,
+                "titleDuplicateWords": 0,
+                "allTitles": [
+                    "Maintenance WordPress | Experts spécialisés pour votre site !"
+                ],
+                "titleCount": 1,
+                "headTitleCount": 1,
+                "description": "Besoin de mettre votre site WordPress en maintenance ? Notre agence spécialisée WordPress vous offre une maintenance efficace, pour des résultats garantit.",
+                "descriptionLength": 155,
+                "iframes": 0,
+                "language": "fr-FR",
+                "hreflang": false,
+                "domainLength": 17,
+                "pageStatusCode": 200,
+                "pageHttpsStatus": true,
+                "viewport": true,
+                "mobileResponsive": true,
+                "charset": true,
+                "favicon": true,
+                "h1": [
+                    "Maintenance WordPress"
+                ],
+                "h2": [
+                    "Securité WordPress",
+                    "Optimisation des performances WordPress",
+                    "Mises à jour et performances WordPress",
+                    "Des experts WordPress",
+                    "Découvrez  nos  solutions  de  maintenance  WordPress",
+                    "Des  questions  sur  nos  offres  de  maintenance  ?"
+                ],
+                "h3": [
+                    "Maintenance préventive",
+                    "Maintenance évolutive",
+                    "Optimisation des performances",
+                    "Conseil et support client",
+                    "Mises à jour sécurisées",
+                    "Sauvegardes journalières",
+                    "Suivi de la sécurité",
+                    "Suivi des performances",
+                    "Disponibilité du site",
+                    "Vérification des liens cassés",
+                    "Suivi Analytics",
+                    "Intervention de nos experts"
+                ],
+                "h4": [],
+                "h5": [],
+                "h6": [],
+                "h1Count": 1,
+                "h2Count": 6,
+                "h3Count": 12,
+                "h4Count": 0,
+                "h5Count": 0,
+                "h6Count": 0,
+                "words": 1830,
+                "wordcount": 1830,
+                "wordcountcontentonly": 1693,
+                "totalwordcount": 15134,
+                "paragraphs": 37,
+                "loremIpsum": false,
+                "appleTouchIcon": true,
+                "strongTags": 4,
+                "internalLinks": [
+                    {
+                        "url": "https://mysmartdigital.fr/",
+                        "anchorText": "<img class=\"pix-logo\" height=\"40\" width=\"102.85714285714\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\" >\n                                                            <img width=\"450\" height=\"175\" class=\"pix-logo-scroll\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\">",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "Développement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "Maintenance WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/optimisation-performance-wordpress/",
+                        "anchorText": "Optimisation des performances",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                        "anchorText": "Hebergement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
+                        "anchorText": "Blog",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/",
+                        "anchorText": "<img src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" height=\"45\" width=\"115.71428571429\" style=\"height:45px;width:auto;\">",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "Développement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "Maintenance WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                        "anchorText": "Hebergement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "L’Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
+                        "anchorText": "Le Blog",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    }
+                ],
+                "internalLinksCount": 25,
+                "externalLinks": [
+                    {
+                        "url": "http://app.mysmartdigital.fr/",
+                        "anchorText": "Espace client",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "RÉSERVER UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://app.mysmartdigital.fr/",
+                        "anchorText": "Espace client",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "JE RÉSERVE UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://calendly.com/serkan-msd/30min",
+                        "anchorText": "RÉSERVER UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://app.mysmartdigital.fr/pay/service/2",
+                        "anchorText": "SOUSCRIRE",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://app.mysmartdigital.fr/pay/service/14",
+                        "anchorText": "SOUSCRIRE",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://app.mysmartdigital.fr/pay/service/20",
+                        "anchorText": "SOUSCRIRE",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://app.mysmartdigital.fr/pay/service/22",
+                        "anchorText": "SOUSCRIRE",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "JE RÉSERVE UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    }
+                ],
+                "externalLinksCount": 10,
+                "averageAnchorTextLength": 32,
+                "brokenInternalLinks": 0,
+                "brokenExternalLinks": 0,
+                "totalBrokenLinks": 0,
+                "brokenLinksPercentage": 0,
+                "imagesWithoutAlt": 21,
+                "hasGoogleAnalytics": false,
+                "hasHttps": true,
+                "hasJsonLd": true,
+                "hasMicrodata": true,
+                "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+                "xRobots": "",
+                "canonicalUrl": "https://mysmartdigital.fr/maintenance-wordpress/",
+                "hasOpenGraph": true,
+                "hasTwitterCards": true,
+                "openGraphData": {
+                    "title": "Maintenance WordPress | Experts spécialisés pour votre site !",
+                    "description": "Besoin de mettre votre site WordPress en maintenance ? Notre agence spécialisée WordPress vous offre une maintenance efficace, pour des résultats garantit.",
+                    "image": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Inseec-logo.png",
+                    "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                    "site_name": "My Smart Digital",
+                    "type": "article",
+                    "locale": "fr_FR",
+                    "images": [
+                        {
+                            "url": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Inseec-logo.png",
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "type": null
+                        }
+                    ]
+                },
+                "openGraphTags": {
+                    "og:locale": "fr_FR",
+                    "og:type": "article",
+                    "og:title": "Maintenance WordPress | Experts spécialisés pour votre site !",
+                    "og:description": "Besoin de mettre votre site WordPress en maintenance ? Notre agence spécialisée WordPress vous offre une maintenance efficace, pour des résultats garantit.",
+                    "og:url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                    "og:site_name": "My Smart Digital",
+                    "og:image": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Inseec-logo.png"
+                },
+                "hasHreflang": false,
+                "hasAmp": false,
+                "hasSchema": true,
+                "images": [
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2040'%3E%3C/svg%3E",
+                        "imageIndex": 1,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20175'%3E%3C/svg%3E",
+                        "imageIndex": 2,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20115%2045'%3E%3C/svg%3E",
+                        "imageIndex": 3,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 4,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 5,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20795%2094'%3E%3C/svg%3E",
+                        "imageIndex": 6,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 7,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 8,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 9,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 10,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    }
+                ],
+                "headingStructure": [
+                    {
+                        "tag": "h1",
+                        "level": 1,
+                        "text": "Maintenance WordPress",
+                        "position": 1
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Securité WordPress",
+                        "position": 2
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Optimisation des performances WordPress",
+                        "position": 3
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Mises à jour et performances WordPress",
+                        "position": 4
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Des experts WordPress",
+                        "position": 5
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Maintenance préventive",
+                        "position": 6
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Maintenance évolutive",
+                        "position": 7
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Optimisation des performances",
+                        "position": 8
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Conseil et support client",
+                        "position": 9
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Découvrez  nos  solutions  de  maintenance  WordPress",
+                        "position": 10
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Mises à jour sécurisées",
+                        "position": 11
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Sauvegardes journalières",
+                        "position": 12
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Suivi de la sécurité",
+                        "position": 13
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Suivi des performances",
+                        "position": 14
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Disponibilité du site",
+                        "position": 15
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Vérification des liens cassés",
+                        "position": 16
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Suivi Analytics",
+                        "position": 17
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Intervention de nos experts",
+                        "position": 18
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Des  questions  sur  nos  offres  de  maintenance  ?",
+                        "position": 19
+                    }
+                ],
+                "headingScore": 71,
+                "seo_page_score": 87,
+                "seo_grade": "B",
+                "seo_category": "Excellent",
+                "seo_issues_count": 2,
+                "notes": "Issues: title too long, 21 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
+                "issues": [
+                    "title too long",
+                    "21 images without alt text"
+                ],
+                "sitemap_url": "https://mysmartdigital.fr/sitemap_index.xml",
+                "hasSitemap": true,
+                "sitemap_type": "sitemap_index",
+                "sitemap_size": 3,
+                "statusCode": 200,
+                "analysis_date": "2025-10-28T17:26:55.864Z",
+                "data_source": "msd_seo_audit"
+            },
+            {
+                "url": "https://mysmartdigital.fr/optimisation-performance-wordpress",
+                "title": "Optimisation WordPress | Performance de site qualitative",
+                "titleLength": 56,
+                "titleDuplicateWords": 0,
+                "allTitles": [
+                    "Optimisation WordPress | Performance de site qualitative"
+                ],
+                "titleCount": 1,
+                "headTitleCount": 1,
+                "description": "Confiez l'optimisation de votre site WordPress pour une performance qualitative à notre agence spécialisée. Découvrez nos solutions pour une expérience utilisateur optimale.",
+                "descriptionLength": 173,
+                "iframes": 0,
+                "language": "fr-FR",
+                "hreflang": false,
+                "domainLength": 17,
+                "pageStatusCode": 200,
+                "pageHttpsStatus": true,
+                "viewport": true,
+                "mobileResponsive": true,
+                "charset": true,
+                "favicon": true,
+                "h1": [
+                    "Optimisation des performances WordPress"
+                ],
+                "h2": [
+                    "Référencement naturel",
+                    "Expérience utilisateur",
+                    "Optimisation des performances WordPress",
+                    "Les  solutions  que  nous  mettons  en  œuvre  pour  accélérer  votre  site  WordPress",
+                    "Nos  services  de  performances  WordPress",
+                    "Des  questions  sur  notre  service  de  performance  ?"
+                ],
+                "h3": [
+                    "Minification du code HTML, CSS et JS",
+                    "Optimisation et compression des images",
+                    "Optimisation des polices",
+                    "Optimisation de la base de données",
+                    "Optimisation des extensions et du WP Core",
+                    "Mise en cache",
+                    "Réseau de diffusion CDN",
+                    "Autres solutions",
+                    "Free",
+                    "$49/year"
+                ],
+                "h4": [],
+                "h5": [],
+                "h6": [],
+                "h1Count": 1,
+                "h2Count": 6,
+                "h3Count": 10,
+                "h4Count": 0,
+                "h5Count": 0,
+                "h6Count": 0,
+                "words": 1284,
+                "wordcount": 1284,
+                "wordcountcontentonly": 1129,
+                "totalwordcount": 11762,
+                "paragraphs": 29,
+                "loremIpsum": false,
+                "appleTouchIcon": true,
+                "strongTags": 4,
+                "internalLinks": [
+                    {
+                        "url": "https://mysmartdigital.fr/",
+                        "anchorText": "<img class=\"pix-logo\" height=\"40\" width=\"102.85714285714\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\" >\n                                                            <img width=\"450\" height=\"175\" class=\"pix-logo-scroll\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\">",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "Développement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "Maintenance WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/optimisation-performance-wordpress/",
+                        "anchorText": "Optimisation des performances",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                        "anchorText": "Hebergement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
+                        "anchorText": "Blog",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/",
+                        "anchorText": "<img src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" height=\"45\" width=\"115.71428571429\" style=\"height:45px;width:auto;\">",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "Développement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "Maintenance WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                        "anchorText": "Hebergement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "L’Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
+                        "anchorText": "Le Blog",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    }
+                ],
+                "internalLinksCount": 25,
+                "externalLinks": [
+                    {
+                        "url": "http://app.mysmartdigital.fr/",
+                        "anchorText": "Espace client",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "RÉSERVER UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://app.mysmartdigital.fr/",
+                        "anchorText": "Espace client",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "ACCÉLÉRER MON SITE",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "JE RÉSERVE UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://pixfort.website/redirect?to=essentials",
+                        "anchorText": "Optimiser",
+                        "statusCode": 403,
+                        "isBroken": true,
+                        "error": null
+                    },
+                    {
+                        "url": "https://pixfort.website/redirect?to=essentials",
+                        "anchorText": "Optimiser",
+                        "statusCode": 403,
+                        "isBroken": true,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "JE RÉSERVE UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    }
+                ],
+                "externalLinksCount": 8,
+                "averageAnchorTextLength": 34,
+                "brokenInternalLinks": 0,
+                "brokenExternalLinks": 2,
+                "totalBrokenLinks": 2,
+                "brokenLinksPercentage": 6,
+                "imagesWithoutAlt": 16,
+                "hasGoogleAnalytics": false,
+                "hasHttps": true,
+                "hasJsonLd": true,
+                "hasMicrodata": true,
+                "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+                "xRobots": "",
+                "canonicalUrl": "https://mysmartdigital.fr/optimisation-performance-wordpress/",
+                "hasOpenGraph": true,
+                "hasTwitterCards": true,
+                "openGraphData": {
+                    "title": "Optimisation WordPress | Performance de site qualitative",
+                    "description": "Confiez l'optimisation de votre site WordPress pour une performance qualitative à notre agence spécialisée. Découvrez nos solutions pour une expérience utilisateur optimale.",
+                    "image": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
+                    "url": "https://mysmartdigital.fr/optimisation-performance-wordpress/",
+                    "site_name": "My Smart Digital",
+                    "type": "article",
+                    "locale": "fr_FR",
+                    "images": [
+                        {
+                            "url": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "type": null
+                        }
+                    ]
+                },
+                "openGraphTags": {
+                    "og:locale": "fr_FR",
+                    "og:type": "article",
+                    "og:title": "Optimisation WordPress | Performance de site qualitative",
+                    "og:description": "Confiez l'optimisation de votre site WordPress pour une performance qualitative à notre agence spécialisée. Découvrez nos solutions pour une expérience utilisateur optimale.",
+                    "og:url": "https://mysmartdigital.fr/optimisation-performance-wordpress/",
+                    "og:site_name": "My Smart Digital",
+                    "og:image": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png"
+                },
+                "hasHreflang": false,
+                "hasAmp": false,
+                "hasSchema": true,
+                "images": [
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2040'%3E%3C/svg%3E",
+                        "imageIndex": 1,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20175'%3E%3C/svg%3E",
+                        "imageIndex": 2,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20115%2045'%3E%3C/svg%3E",
+                        "imageIndex": 3,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 4,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20795%2094'%3E%3C/svg%3E",
+                        "imageIndex": 5,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 6,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 7,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 8,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 9,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 10,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    }
+                ],
+                "headingStructure": [
+                    {
+                        "tag": "h1",
+                        "level": 1,
+                        "text": "Optimisation des performances WordPress",
+                        "position": 1
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Référencement naturel",
+                        "position": 2
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Expérience utilisateur",
+                        "position": 3
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Optimisation des performances WordPress",
+                        "position": 4
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Les  solutions  que  nous  mettons  en  œuvre  pour  accélérer  votre  site  WordPress",
+                        "position": 5
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Minification du code HTML, CSS et JS",
+                        "position": 6
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Optimisation et compression des images",
+                        "position": 7
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Optimisation des polices",
+                        "position": 8
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Optimisation de la base de données",
+                        "position": 9
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Optimisation des extensions et du WP Core",
+                        "position": 10
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Mise en cache",
+                        "position": 11
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Réseau de diffusion CDN",
+                        "position": 12
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Autres solutions",
+                        "position": 13
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Nos  services  de  performances  WordPress",
+                        "position": 14
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Free",
+                        "position": 15
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "$49/year",
+                        "position": 16
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Des  questions  sur  notre  service  de  performance  ?",
+                        "position": 17
+                    }
+                ],
+                "headingScore": 73,
+                "seo_page_score": 89,
+                "seo_grade": "B",
+                "seo_category": "Excellent",
+                "seo_issues_count": 2,
+                "notes": "Issues: meta description too long, 16 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
+                "issues": [
+                    "meta description too long",
+                    "16 images without alt text"
+                ],
+                "sitemap_url": "https://mysmartdigital.fr/sitemap_index.xml",
+                "hasSitemap": true,
+                "sitemap_type": "sitemap_index",
+                "sitemap_size": 3,
+                "statusCode": 200,
+                "analysis_date": "2025-10-28T17:27:02.259Z",
+                "data_source": "msd_seo_audit"
+            },
+            {
+                "url": "https://mysmartdigital.fr/hebergement-wordpress",
+                "title": "Hébergement web WordPress | Trouvez la solution à prix compétitif",
+                "titleLength": 65,
+                "titleDuplicateWords": 0,
+                "allTitles": [
+                    "Hébergement web WordPress | Trouvez la solution à prix compétitif"
+                ],
+                "titleCount": 1,
+                "headTitleCount": 1,
+                "description": "Découvrez l'hébergement web WordPress à prix compétitif. Profitez de notre expertise pour des résultats professionnels de qualité.",
+                "descriptionLength": 130,
+                "iframes": 0,
+                "language": "fr-FR",
+                "hreflang": false,
+                "domainLength": 17,
+                "pageStatusCode": 200,
+                "pageHttpsStatus": true,
+                "viewport": true,
+                "mobileResponsive": true,
+                "charset": true,
+                "favicon": true,
+                "h1": [
+                    "Hébergement WordPress"
+                ],
+                "h2": [
+                    "Hébergement de site WordPress",
+                    "Maintenance de site WordPress",
+                    "Securité WordPress",
+                    "Découvrez  tout  ce  qui  est  inclus  dans  votre  hébergement",
+                    "Découvrez  tout  ce  qui  est  inclus  dans  votre  hébergement",
+                    "Startup",
+                    "Une  question  sur  nos  services  d'hébergement  ?"
+                ],
+                "h3": [
+                    "CDN gratuit",
+                    "Cloudflare Business",
+                    "Certificats SSL",
+                    "Mise en cache avancée",
+                    "Sauvegardes journalières",
+                    "Migration offerte",
+                    "Suivi Analytics",
+                    "Support 7j/7",
+                    "Free",
+                    "$49/year"
+                ],
+                "h4": [],
+                "h5": [],
+                "h6": [],
+                "h1Count": 1,
+                "h2Count": 7,
+                "h3Count": 10,
+                "h4Count": 0,
+                "h5Count": 0,
+                "h6Count": 0,
+                "words": 1268,
+                "wordcount": 1268,
+                "wordcountcontentonly": 1132,
+                "totalwordcount": 11730,
+                "paragraphs": 29,
+                "loremIpsum": false,
+                "appleTouchIcon": true,
+                "strongTags": 4,
+                "internalLinks": [
+                    {
+                        "url": "https://mysmartdigital.fr/",
+                        "anchorText": "<img class=\"pix-logo\" height=\"40\" width=\"102.85714285714\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\" >\n                                                            <img width=\"450\" height=\"175\" class=\"pix-logo-scroll\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\">",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "Développement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "Maintenance WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/optimisation-performance-wordpress/",
+                        "anchorText": "Optimisation des performances",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                        "anchorText": "Hebergement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
+                        "anchorText": "Blog",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/",
+                        "anchorText": "<img src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" height=\"45\" width=\"115.71428571429\" style=\"height:45px;width:auto;\">",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "Développement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "Maintenance WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                        "anchorText": "Hebergement WordPress",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "L’Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
+                        "anchorText": "Le Blog",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    }
+                ],
+                "internalLinksCount": 25,
+                "externalLinks": [
+                    {
+                        "url": "http://app.mysmartdigital.fr/",
+                        "anchorText": "Espace client",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "RÉSERVER UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://app.mysmartdigital.fr/",
+                        "anchorText": "Espace client",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://calendly.com/serkan-msd/30min",
+                        "anchorText": "Réserver un appel",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "Réserver un appel",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    },
+                    {
+                        "url": "https://pixfort.website/redirect?to=essentials",
+                        "anchorText": "Choisir",
+                        "statusCode": 403,
+                        "isBroken": true,
+                        "error": null
+                    },
+                    {
+                        "url": "https://pixfort.website/redirect?to=essentials",
+                        "anchorText": "Choisir",
+                        "statusCode": 403,
+                        "isBroken": true,
+                        "error": null
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "JE RÉSERVE UN APPEL",
+                        "statusCode": 200,
+                        "isBroken": false,
+                        "error": null
+                    }
+                ],
+                "externalLinksCount": 8,
+                "averageAnchorTextLength": 34,
+                "brokenInternalLinks": 0,
+                "brokenExternalLinks": 2,
+                "totalBrokenLinks": 2,
+                "brokenLinksPercentage": 6,
+                "imagesWithoutAlt": 17,
+                "hasGoogleAnalytics": false,
+                "hasHttps": true,
+                "hasJsonLd": true,
+                "hasMicrodata": true,
+                "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+                "xRobots": "",
+                "canonicalUrl": "https://mysmartdigital.fr/hebergement-wordpress/",
+                "hasOpenGraph": true,
+                "hasTwitterCards": true,
+                "openGraphData": {
+                    "title": "Hébergement web WordPress | Trouvez la solution à prix compétitif",
+                    "description": "Découvrez l'hébergement web WordPress à prix compétitif. Profitez de notre expertise pour des résultats professionnels de qualité.",
+                    "image": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
+                    "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                    "site_name": "My Smart Digital",
+                    "type": "article",
+                    "locale": "fr_FR",
+                    "images": [
+                        {
+                            "url": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "type": null
+                        }
+                    ]
+                },
+                "openGraphTags": {
+                    "og:locale": "fr_FR",
+                    "og:type": "article",
+                    "og:title": "Hébergement web WordPress | Trouvez la solution à prix compétitif",
+                    "og:description": "Découvrez l'hébergement web WordPress à prix compétitif. Profitez de notre expertise pour des résultats professionnels de qualité.",
+                    "og:url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                    "og:site_name": "My Smart Digital",
+                    "og:image": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png"
+                },
+                "hasHreflang": false,
+                "hasAmp": false,
+                "hasSchema": true,
+                "images": [
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2040'%3E%3C/svg%3E",
+                        "imageIndex": 1,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20175'%3E%3C/svg%3E",
+                        "imageIndex": 2,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20115%2045'%3E%3C/svg%3E",
+                        "imageIndex": 3,
+                        "contentLength": 64,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 64,
+                        "sizeInKb": 0.06
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 4,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 5,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 6,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 7,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 8,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 9,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    },
+                    {
+                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageIndex": 10,
+                        "contentLength": 65,
+                        "contentType": "image/svg+xml",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 65,
+                        "sizeInKb": 0.07
+                    }
+                ],
+                "headingStructure": [
+                    {
+                        "tag": "h1",
+                        "level": 1,
+                        "text": "Hébergement WordPress",
+                        "position": 1
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Hébergement de site WordPress",
+                        "position": 2
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Maintenance de site WordPress",
+                        "position": 3
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Securité WordPress",
+                        "position": 4
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Découvrez  tout  ce  qui  est  inclus  dans  votre  hébergement",
+                        "position": 5
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "CDN gratuit",
+                        "position": 6
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Cloudflare Business",
+                        "position": 7
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Certificats SSL",
+                        "position": 8
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Mise en cache avancée",
+                        "position": 9
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Sauvegardes journalières",
+                        "position": 10
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Migration offerte",
+                        "position": 11
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Suivi Analytics",
+                        "position": 12
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Support 7j/7",
+                        "position": 13
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Découvrez  tout  ce  qui  est  inclus  dans  votre  hébergement",
+                        "position": 14
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Free",
+                        "position": 15
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Startup",
+                        "position": 16
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "$49/year",
+                        "position": 17
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Une  question  sur  nos  services  d'hébergement  ?",
+                        "position": 18
+                    }
+                ],
+                "headingScore": 73,
+                "seo_page_score": 87,
+                "seo_grade": "B",
+                "seo_category": "Excellent",
+                "seo_issues_count": 2,
+                "notes": "Issues: title too long, 17 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
+                "issues": [
+                    "title too long",
+                    "17 images without alt text"
+                ],
+                "sitemap_url": "https://mysmartdigital.fr/sitemap_index.xml",
+                "hasSitemap": true,
+                "sitemap_type": "sitemap_index",
+                "sitemap_size": 3,
+                "statusCode": 200,
+                "analysis_date": "2025-10-28T17:27:08.162Z",
+                "data_source": "msd_seo_audit"
+            }
+        ],
+        "analysis": {
+            "total_pages_processed": 5,
+            "analysis_completed_at": "2025-10-28T17:27:08.417Z",
+            "seo_engine_version": "1.0.0",
+            "data_format_version": "2.0"
+        }
+    }
+]

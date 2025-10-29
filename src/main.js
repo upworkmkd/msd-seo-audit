@@ -23,7 +23,7 @@ Actor.main(async () => {
         maxRequestsPerCrawl = 5,
         crawlUrls = true,
         includeImages = true,
-        maxImagesPerPage = 10,
+        maxImagesPerPage = -1,
         waitForPageLoad = 3000,
         userAgent = 'Mozilla/5.0 (compatible; MSD-SEO-Audit/1.0)',
         viewportWidth = 1920,
@@ -110,20 +110,11 @@ Actor.main(async () => {
                 
                 // Calculate SEO score
                 const scoreData = seoScorer.calculateScore(seoData);
-                
-                // Add domain-level sitemap information to each page result
-                const pageSitemapInfo = {
-                    sitemap_url: domainSitemapAnalysis?.sitemapUrl || null,
-                    hasSitemap: domainSitemapAnalysis?.hasSitemap || false,
-                    sitemap_type: domainSitemapAnalysis?.sitemapType || null,
-                    sitemap_size: domainSitemapAnalysis?.sitemapSize || 0
-                };
 
                 // Combine all data
                 const result = {
                     ...seoData,
                     ...scoreData,
-                    ...pageSitemapInfo,
                     statusCode: statusCode,
                     analysis_date: new Date().toISOString(),
                     data_source: 'msd_seo_audit'
@@ -195,7 +186,7 @@ Actor.main(async () => {
         }
         
         // Calculate domain-level analysis with SEO scores
-        const domainAnalysis = await calculateDomainAnalysis(results);
+        const domainAnalysis = await calculateDomainAnalysis(results, domainSitemapAnalysis);
 
         // Create comprehensive result structure
         const finalOutput = {
@@ -224,7 +215,7 @@ Actor.main(async () => {
 });
 
 // Domain-level analysis calculation
-async function calculateDomainAnalysis(results) {
+async function calculateDomainAnalysis(results, domainSitemapAnalysis = null) {
     console.log('Calculating domain-level analysis...');
 
     // Calculate average SEO score across all pages
@@ -269,6 +260,7 @@ async function calculateDomainAnalysis(results) {
         // Compile domain analysis
         const domainAnalysis = {
             domain_name: domain,
+            domainLength: domain.length,
             total_pages_analyzed: totalPages,
             average_seo_score: Math.round(averageScore * 100) / 100,
             overall_grade: overallGrade,
@@ -314,11 +306,12 @@ async function calculateDomainAnalysis(results) {
 
             // Sitemap Information (domain-level)
             sitemap_info: {
-                has_sitemap: results.some(r => r.hasSitemap),
-                sitemap_urls: [...new Set(results.flatMap(r => r.sitemapUrls || []))],
-                sitemap_types: [...new Set(results.map(r => r.sitemap_type).filter(Boolean))],
-                sitemap_url: results.find(r => r.sitemap_url)?.sitemap_url || null,
-                sitemap_size: Math.max(...results.map(r => r.sitemap_size || 0), 0)
+                has_sitemap: domainSitemapAnalysis?.hasSitemap || false,
+                sitemap_url: domainSitemapAnalysis?.sitemapUrl || null,
+                sitemap_type: domainSitemapAnalysis?.sitemapType || null,
+                sitemap_size: domainSitemapAnalysis?.sitemapSize || 0,
+                sitemap_urls: domainSitemapAnalysis?.sitemapUrls || [],
+                sitemap_lastmod: domainSitemapAnalysis?.sitemapLastModified || null
             }
         };
 

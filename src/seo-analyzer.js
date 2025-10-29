@@ -14,7 +14,7 @@ class SEOAnalyzer {
         this.cheerio = cheerio;
     }
 
-    async analyzePage({ url, html, page, includeImages = true, maxImagesPerPage = 10, statusCode = 200 }) {
+    async analyzePage({ url, html, page, includeImages = true, maxImagesPerPage = -1, statusCode = 200 }) {
         const $ = this.cheerio.load(html);
         
         // Basic page information
@@ -117,25 +117,41 @@ class SEOAnalyzer {
         const headingScore = this.calculateHeadingScore(detailedHeadingStructure, title);
 
         return {
+            // Basic Page Information
             url: url,
+            pageStatusCode: statusCode,
+            language: language,
+            
+            // SEO Feature Flags (individual boolean properties)
+            hasHttps: technicalSeo.hasHttps,
+            pageHttpsStatus: url.startsWith('https://'),
+            hasHreflang: hreflang.length > 0,
+            hasOpenGraph: openGraphAnalysis.hasOpenGraph,
+            hasTwitterCards: metaData.hasTwitterCards,
+            hasSchema: structuredData.hasSchema,
+            hasJsonLd: structuredData.hasJsonLd,
+            hasMicrodata: structuredData.hasMicrodata,
+            hasAmp: hasAmp,
+            hasGoogleAnalytics: hasGoogleAnalytics,
+            viewport: technicalSeo.viewport,
+            mobileResponsive: technicalSeo.viewport,
+            charset: technicalSeo.charset,
+            favicon: technicalSeo.favicon,
+            appleTouchIcon: hasAppleTouchIcon,
+            
+            // Title Information
             title: title,
             titleLength: title ? title.length : 0,
             titleDuplicateWords: titleDuplicateWords,
             allTitles: allTitles,
             titleCount: allTitles.length,
             headTitleCount: allTitles.length,
+            
+            // Description Information
             description: description,
             descriptionLength: description ? description.length : 0,
-            iframes: iframes,
-            language: language,
-            hreflang: hreflang.length > 0,
-            domainLength: new URL(url).hostname.length,
-            pageStatusCode: statusCode,
-            pageHttpsStatus: url.startsWith('https://'),
-            viewport: technicalSeo.viewport,
-            mobileResponsive: technicalSeo.viewport,
-            charset: technicalSeo.charset,
-            favicon: technicalSeo.favicon,
+            
+            // Headings Information
             h1: h1Tags,
             h2: h2Tags,
             h3: h3Tags,
@@ -148,14 +164,29 @@ class SEOAnalyzer {
             h4Count: h4Tags.length,
             h5Count: h5Tags.length,
             h6Count: h6Tags.length,
+            headingStructure: detailedHeadingStructure,
+            headingScore: headingScore,
+            
+            // Content Information
             words: contentAnalysis.words,
             wordcount: contentAnalysis.wordcount,
             wordcountcontentonly: contentAnalysis.wordcountcontentonly,
             totalwordcount: contentAnalysis.totalwordcount,
             paragraphs: contentAnalysis.paragraphs,
-            loremIpsum: loremIpsum,
-            appleTouchIcon: hasAppleTouchIcon,
             strongTags: contentAnalysis.strongTags,
+            loremIpsum: loremIpsum,
+            
+            // Technical SEO / Meta
+            canonicalUrl: technicalSeo.canonicalUrl,
+            metaRobots: metaData.metaRobots,
+            xRobots: metaData.xRobots,
+            hreflang: hreflang.length > 0,
+            
+            // OpenGraph Data
+            openGraphData: openGraphAnalysis.openGraphData,
+            openGraphTags: openGraphAnalysis.openGraphTags,
+            
+            // Links Information (breakdown first, then counts)
             internalLinks: linksAnalysis.internalLinks,
             internalLinksCount: linksAnalysis.internalLinksCount,
             externalLinks: linksAnalysis.externalLinks,
@@ -165,25 +196,13 @@ class SEOAnalyzer {
             brokenExternalLinks: linksAnalysis.brokenExternalLinks,
             totalBrokenLinks: linksAnalysis.totalBrokenLinks,
             brokenLinksPercentage: linksAnalysis.brokenLinksPercentage,
-            imagesWithoutAlt: imagesWithoutAlt.length,
-            hasGoogleAnalytics: hasGoogleAnalytics,
-            hasHttps: technicalSeo.hasHttps,
-            hasJsonLd: structuredData.hasJsonLd,
-            hasMicrodata: structuredData.hasMicrodata,
-            metaRobots: metaData.metaRobots,
-            xRobots: metaData.xRobots,
-            canonicalUrl: technicalSeo.canonicalUrl,
-            hasOpenGraph: openGraphAnalysis.hasOpenGraph, // Updated to use detailed analysis
-            hasTwitterCards: metaData.hasTwitterCards,
-            // Detailed OpenGraph data
-            openGraphData: openGraphAnalysis.openGraphData,
-            openGraphTags: openGraphAnalysis.openGraphTags,
-            hasHreflang: hreflang.length > 0,
-            hasAmp: hasAmp,
-            hasSchema: structuredData.hasSchema,
+            
+            // Images Information
             images: images,
-            headingStructure: detailedHeadingStructure,
-            headingScore: headingScore
+            imagesWithoutAlt: imagesWithoutAlt.length,
+            
+            // Other
+            iframes: iframes
         };
     }
 
@@ -431,6 +450,7 @@ class SEOAnalyzer {
         links.each((_, link) => {
             const href = $(link).attr('href');
             const anchorText = $(link).text().trim();
+            const target = $(link).attr('target') || null;
             
             if (anchorText) {
                 totalAnchorTextLength += anchorText.length;
@@ -459,9 +479,9 @@ class SEOAnalyzer {
                     const linkData = {
                         url: url.href,
                         anchorText: anchorText,
+                        target: target,
                         statusCode: null,
-                        isBroken: false,
-                        error: null
+                        isBroken: false
                     };
                     
                     if (url.hostname === baseHost) {
@@ -527,11 +547,9 @@ class SEOAnalyzer {
                     if (emailAddress && emailAddress.trim() && emailRegex.test(emailAddress.trim())) {
                         link.statusCode = 200;
                         link.isBroken = false;
-                        link.error = null;
                     } else {
                         link.statusCode = 400;
                         link.isBroken = true;
-                        link.error = 'Invalid email address in mailto link';
                     }
                     return;
                 }
@@ -540,7 +558,6 @@ class SEOAnalyzer {
                 if (link.url.startsWith('tel:') || link.url.startsWith('sms:') || link.url.startsWith('whatsapp:')) {
                     link.statusCode = 200;
                     link.isBroken = false;
-                    link.error = null;
                     return;
                 }
                 
@@ -560,7 +577,6 @@ class SEOAnalyzer {
                 } catch (error) {
                     link.statusCode = error.response?.status || 0;
                     link.isBroken = true;
-                    link.error = error.message;
                 }
             });
             
@@ -578,7 +594,10 @@ class SEOAnalyzer {
         const imagesWithoutAlt = [];
         const images_list = [];
         
-        images.slice(0, maxImagesPerPage).each((_, img) => {
+        // If maxImagesPerPage is -1, process all images; otherwise use the limit
+        const imagesToProcess = maxImagesPerPage === -1 ? images : images.slice(0, maxImagesPerPage);
+        
+        imagesToProcess.each((_, img) => {
             const src = $(img).attr('src');
             const alt = $(img).attr('alt');
             
@@ -598,7 +617,7 @@ class SEOAnalyzer {
         
         return {
             imagesWithoutAlt: imagesWithoutAlt.length,
-            images_list: images_list.slice(0, maxImagesPerPage)
+            images_list: maxImagesPerPage === -1 ? images_list : images_list.slice(0, maxImagesPerPage)
         };
     }
 
@@ -678,8 +697,11 @@ class SEOAnalyzer {
 
         const images = [];
         const imageElements = $('img[src]').toArray();
+        
+        // If maxImagesPerPage is -1, process all images; otherwise use the limit
+        const maxImages = maxImagesPerPage === -1 ? imageElements.length : maxImagesPerPage;
 
-        for (let i = 0; i < imageElements.length && i < maxImagesPerPage; i++) {
+        for (let i = 0; i < imageElements.length && i < maxImages; i++) {
             const el = imageElements[i];
             const $img = $(el);
             const src = $img.attr('src');

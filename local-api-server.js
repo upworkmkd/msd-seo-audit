@@ -35,7 +35,7 @@ app.post('/analyze', async (req, res) => {
         const { 
             url, 
             includeImages = true, 
-            maxImagesPerPage = 10,
+            maxImagesPerPage = -1,
             userAgent = 'Mozilla/5.0 (compatible; MSD-SEO-Audit/1.0)'
         } = req.body;
 
@@ -119,7 +119,7 @@ app.post('/analyze-batch', async (req, res) => {
         const { 
             urls, 
             includeImages = true, 
-            maxImagesPerPage = 10,
+            maxImagesPerPage = -1,
             userAgent = 'Mozilla/5.0 (compatible; MSD-SEO-Audit/1.0)'
         } = req.body;
 
