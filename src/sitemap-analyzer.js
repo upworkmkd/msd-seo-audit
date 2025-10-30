@@ -72,6 +72,69 @@ class SitemapAnalyzer {
     }
 
     /**
+     * Recursively counts all URLs across all sitemaps
+     * @param {string} sitemapUrl - The sitemap URL to analyze
+     * @param {number} timeout - Request timeout in milliseconds
+     * @param {number} maxDepth - Maximum recursion depth to prevent infinite loops
+     * @param {Set} visitedUrls - Set of already visited URLs to prevent duplicates
+     * @returns {Promise<number>} Total count of URLs across all sitemaps
+     */
+    async countTotalUrlsInSitemaps(sitemapUrl, timeout = 10000, maxDepth = 10, visitedUrls = new Set()) {
+        if (maxDepth <= 0 || visitedUrls.has(sitemapUrl)) {
+            return 0;
+        }
+
+        visitedUrls.add(sitemapUrl);
+        let totalUrls = 0;
+
+        try {
+            const response = await this.axios.get(sitemapUrl, {
+                timeout,
+                headers: {
+                    'User-Agent': 'Mozilla/5.0 (compatible; MSD-SEO-Audit/1.0)',
+                    'Accept': 'application/xml, text/xml, application/xhtml+xml, text/html, */*'
+                }
+            });
+
+            if (response.status === 200) {
+                const content = response.data;
+                const contentType = response.headers['content-type'] || '';
+
+                if (contentType.includes('xml') || contentType.includes('text')) {
+                    // Check if it's a sitemap index
+                    if (content.includes('<sitemapindex') || content.includes('<sitemap:') || content.includes('sitemapindex')) {
+                        // It's a sitemap index, recursively fetch all referenced sitemaps
+                        const sitemapUrls = this.extractSitemapUrlsFromIndex(content, sitemapUrl);
+                        
+                        for (const nestedSitemapUrl of sitemapUrls) {
+                            try {
+                                const nestedUrlCount = await this.countTotalUrlsInSitemaps(
+                                    nestedSitemapUrl,
+                                    timeout,
+                                    maxDepth - 1,
+                                    visitedUrls
+                                );
+                                totalUrls += nestedUrlCount;
+                            } catch (error) {
+                                // Skip invalid or inaccessible sitemaps
+                                console.warn(`Failed to fetch sitemap ${nestedSitemapUrl}: ${error.message}`);
+                            }
+                        }
+                    } else if (content.includes('<urlset') || content.includes('<url:') || content.includes('urlset')) {
+                        // It's a regular sitemap, count the URLs
+                        totalUrls = this.countUrlsInSitemap(content);
+                    }
+                }
+            }
+        } catch (error) {
+            // If fetching fails, return 0 (don't throw)
+            console.warn(`Failed to fetch sitemap ${sitemapUrl}: ${error.message}`);
+        }
+
+        return totalUrls;
+    }
+
+    /**
      * Analyzes sitemaps for a given domain
      * @param {string} domainUrl - The base domain URL
      * @param {number} timeout - Request timeout in milliseconds
@@ -86,6 +149,7 @@ class SitemapAnalyzer {
             sitemapSize: 0,
             sitemapLastModified: null,
             sitemapUrls: [],
+            totalUrls: 0,
             error: null
         };
 
@@ -117,11 +181,19 @@ class SitemapAnalyzer {
                         results.sitemapType = 'sitemap_index';
                         results.sitemapSize = this.countSitemapsInIndex(content);
                         results.sitemapUrls = this.extractSitemapUrlsFromIndex(content, domainUrl);
+                        
+                        // Recursively count all URLs across all sitemaps
+                        console.log(`Counting total URLs across ${results.sitemapSize} sitemaps...`);
+                        results.totalUrls = await this.countTotalUrlsInSitemaps(finalSitemapUrl, timeout);
+                        console.log(`Total URLs found: ${results.totalUrls}`);
                     } else if (content.includes('<urlset') || content.includes('<url:') || content.includes('urlset')) {
                         results.sitemapType = 'urlset';
                         results.sitemapSize = this.countUrlsInSitemap(content);
                         results.sitemapUrls = this.extractUrlsFromSitemap(content, domainUrl);
                         results.sitemapLastModified = this.getLastModifiedFromSitemap(content);
+                        
+                        // For a single sitemap, totalUrls equals sitemapSize
+                        results.totalUrls = results.sitemapSize;
                     }
                 }
             }
@@ -145,6 +217,20 @@ class SitemapAnalyzer {
                         results.hasSitemap = true;
                         results.sitemapType = 'robots_txt_reference';
                         results.sitemapUrls = sitemapUrls;
+                        
+                        // Recursively count all URLs across all sitemaps found in robots.txt
+                        console.log(`Counting total URLs across ${sitemapUrls.length} sitemaps from robots.txt...`);
+                        let totalUrlsCount = 0;
+                        for (const sitemapUrl of sitemapUrls) {
+                            try {
+                                const urlCount = await this.countTotalUrlsInSitemaps(sitemapUrl, timeout / 2);
+                                totalUrlsCount += urlCount;
+                            } catch (error) {
+                                console.warn(`Failed to count URLs in sitemap ${sitemapUrl}: ${error.message}`);
+                            }
+                        }
+                        results.totalUrls = totalUrlsCount;
+                        console.log(`Total URLs found: ${results.totalUrls}`);
                     }
                 }
             } catch (robotsError) {

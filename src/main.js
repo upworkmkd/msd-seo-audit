@@ -239,7 +239,6 @@ async function calculateDomainAnalysis(results, domainSitemapAnalysis = null) {
     const totalPages = results.length;
     const pagesWithH1 = results.filter(r => r.h1Count > 0).length;
     const pagesWithMetaDesc = results.filter(r => r.descriptionLength > 0).length;
-    const pagesWithImages = results.filter(r => (r.images?.length || 0) > 0).length;
     const pagesWithErrors = results.filter(r => r.error).length;
 
     // Status code analysis
@@ -272,8 +271,6 @@ async function calculateDomainAnalysis(results, domainSitemapAnalysis = null) {
             pages_with_h1_percentage: Math.round((pagesWithH1 / totalPages) * 100),
             pages_with_meta_description: pagesWithMetaDesc,
             pages_with_meta_description_percentage: Math.round((pagesWithMetaDesc / totalPages) * 100),
-            pages_with_images: pagesWithImages,
-            pages_with_images_percentage: Math.round((pagesWithImages / totalPages) * 100),
             pages_with_errors: pagesWithErrors,
             pages_with_errors_percentage: Math.round((pagesWithErrors / totalPages) * 100),
 
@@ -310,6 +307,7 @@ async function calculateDomainAnalysis(results, domainSitemapAnalysis = null) {
                 sitemap_url: domainSitemapAnalysis?.sitemapUrl || null,
                 sitemap_type: domainSitemapAnalysis?.sitemapType || null,
                 sitemap_size: domainSitemapAnalysis?.sitemapSize || 0,
+                total_urls: domainSitemapAnalysis?.totalUrls || 0,
                 sitemap_urls: domainSitemapAnalysis?.sitemapUrls || [],
                 sitemap_lastmod: domainSitemapAnalysis?.sitemapLastModified || null
             }
