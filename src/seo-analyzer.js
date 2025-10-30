@@ -169,9 +169,6 @@ class SEOAnalyzer {
             
             // Content Information
             words: contentAnalysis.words,
-            wordcount: contentAnalysis.wordcount,
-            wordcountcontentonly: contentAnalysis.wordcountcontentonly,
-            totalwordcount: contentAnalysis.totalwordcount,
             paragraphs: contentAnalysis.paragraphs,
             strongTags: contentAnalysis.strongTags,
             loremIpsum: loremIpsum,
@@ -183,7 +180,6 @@ class SEOAnalyzer {
             hreflang: hreflang.length > 0,
             
             // OpenGraph Data
-            openGraphData: openGraphAnalysis.openGraphData,
             openGraphTags: openGraphAnalysis.openGraphTags,
             
             // Links Information (breakdown first, then counts)
@@ -250,16 +246,6 @@ class SEOAnalyzer {
 
     analyzeOpenGraph($) {
         const openGraphTags = {};
-        const openGraphData = {
-            title: null,
-            description: null,
-            image: null,
-            url: null,
-            site_name: null,
-            type: null,
-            locale: null,
-            images: [] // Array of image objects
-        };
 
         // Extract all OpenGraph meta tags
         $('meta[property^="og:"]').each((i, el) => {
@@ -268,53 +254,12 @@ class SEOAnalyzer {
 
             if (property && content) {
                 openGraphTags[property] = content;
-
-                // Map common OpenGraph properties to our data structure
-                if (property === 'og:title') {
-                    openGraphData.title = content;
-                } else if (property === 'og:description') {
-                    openGraphData.description = content;
-                } else if (property === 'og:image') {
-                    openGraphData.image = content;
-                    openGraphData.images.push({
-                        url: content,
-                        alt: null, // We'll try to get alt from other tags
-                        width: null,
-                        height: null,
-                        type: null
-                    });
-                } else if (property === 'og:url') {
-                    openGraphData.url = content;
-                } else if (property === 'og:site_name') {
-                    openGraphData.site_name = content;
-                } else if (property === 'og:type') {
-                    openGraphData.type = content;
-                } else if (property === 'og:locale') {
-                    openGraphData.locale = content;
-                } else if (property === 'og:image:width') {
-                    if (openGraphData.images.length > 0) {
-                        openGraphData.images[openGraphData.images.length - 1].width = content;
-                    }
-                } else if (property === 'og:image:height') {
-                    if (openGraphData.images.length > 0) {
-                        openGraphData.images[openGraphData.images.length - 1].height = content;
-                    }
-                } else if (property === 'og:image:type') {
-                    if (openGraphData.images.length > 0) {
-                        openGraphData.images[openGraphData.images.length - 1].type = content;
-                    }
-                } else if (property === 'og:image:alt') {
-                    if (openGraphData.images.length > 0) {
-                        openGraphData.images[openGraphData.images.length - 1].alt = content;
-                    }
-                }
             }
         });
 
         return {
             hasOpenGraph: Object.keys(openGraphTags).length > 0,
-            openGraphTags: openGraphTags,
-            openGraphData: openGraphData
+            openGraphTags: openGraphTags
         };
     }
 
@@ -357,38 +302,21 @@ class SEOAnalyzer {
     }
 
     analyzeContent($) {
-        // Get total word count (including all text, tags, CSS, etc.)
-        const totalWordCount = this.getTotalWordCount($);
-        
         // Get word count without header and footer (standard content)
-        const wordCountWithoutHeader = this.getWordCountWithoutHeaderFooter($);
-        
-        // Get real word count (visible text without tags, but including header/footer)
-        const wordCount = this.getRealWordCount($);
+        const words = this.getWordCountWithoutHeaderFooter($);
         
         const paragraphs = $('p').length;
-        const strongTags = $('strong, b').length;
+        const strongTags = $('strong').length;
         
         // Check for lorem ipsum using the main content
         const loremIpsum = /lorem\s+ipsum/i.test($('body').text());
         
         return {
-            wordcount: wordCount,
-            wordcountcontentonly: wordCountWithoutHeader,
-            totalwordcount: totalWordCount,
-            words: wordCount, // Keep for backward compatibility
+            words: words,
             paragraphs,
             strongTags,
             loremIpsum
         };
-    }
-
-    getTotalWordCount($) {
-        // Get all text content including HTML tags, CSS, JavaScript, etc.
-        const htmlContent = $.html();
-        // Count words in the entire HTML content
-        const words = htmlContent.split(/\s+/).filter(word => word.length > 0).length;
-        return words;
     }
 
     getWordCountWithoutHeaderFooter($) {
@@ -406,19 +334,6 @@ class SEOAnalyzer {
         temp$('script, style, aside, .sidebar, .widget, .menu, .navigation').remove();
         
         // Get text content
-        const bodyText = temp$('body').text();
-        const words = bodyText.split(/\s+/).filter(word => word.length > 0).length;
-        return words;
-    }
-
-    getRealWordCount($) {
-        // Create a temporary copy for manipulation
-        const temp$ = this.cheerio.load($.html());
-        
-        // Remove script and style elements but keep header/footer
-        temp$('script, style').remove();
-        
-        // Get visible text content (what users see)
         const bodyText = temp$('body').text();
         const words = bodyText.split(/\s+/).filter(word => word.length > 0).length;
         return words;

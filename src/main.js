@@ -249,9 +249,9 @@ async function calculateDomainAnalysis(results, domainSitemapAnalysis = null) {
 
     // OpenGraph analysis
     const pagesWithOpenGraph = results.filter(r => r.hasOpenGraph).length;
-    const pagesWithOpenGraphTitle = results.filter(r => r.openGraphData?.title).length;
-    const pagesWithOpenGraphDescription = results.filter(r => r.openGraphData?.description).length;
-    const pagesWithOpenGraphImage = results.filter(r => r.openGraphData?.image || (r.openGraphData?.images && r.openGraphData.images.length > 0)).length;
+    const pagesWithOpenGraphTitle = results.filter(r => r.openGraphTags?.['og:title']).length;
+    const pagesWithOpenGraphDescription = results.filter(r => r.openGraphTags?.['og:description']).length;
+    const pagesWithOpenGraphImage = results.filter(r => r.openGraphTags?.['og:image']).length;
 
     // SSL certificate analysis
     const sslInfo = await analyzeSSLCertificate(domain);

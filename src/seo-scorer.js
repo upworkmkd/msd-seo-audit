@@ -100,10 +100,8 @@ class SEOScorer {
         }
         
         // 5. CONTENT QUALITY (10 points)
-        // Use wordcountcontentonly for scoring as it represents actual content users see
-        const words = Number(seoData.wordcountcontentonly || seoData.words || 0);
-        const totalWords = Number(seoData.totalwordcount || 0);
-        const realWords = Number(seoData.wordcount || seoData.words || 0);
+        // Use words for scoring as it represents actual content users see (without header/footer/nav/sidebar)
+        const words = Number(seoData.words || 0);
         
         if (words < 150) {
             score -= 8;
