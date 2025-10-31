@@ -334,8 +334,29 @@ class SEOAnalyzer {
         temp$('script, style, aside, .sidebar, .widget, .menu, .navigation').remove();
         
         // Get text content
-        const bodyText = temp$('body').text();
-        const words = bodyText.split(/\s+/).filter(word => word.length > 0).length;
+        let bodyText = temp$('body').text();
+        
+        // Clean HTML entities and normalize text
+        // Note: Cheerio's .text() already decodes standard HTML entities
+        // But we need to handle any non-standard entities and normalize whitespace
+        bodyText = bodyText
+            .replace(/&nbsp;/gi, ' ')              // Non-breaking space (if not decoded)
+            .replace(/&tab;/gi, ' ')              // Tab entity (non-standard)
+            .replace(/&newline;/gi, ' ')          // Newline entity (non-standard)
+            .replace(/&#\d+;/g, ' ')              // Numeric HTML entities (if any remain)
+            .replace(/&[a-z]{2,10};/gi, ' ')      // Any remaining named entities (2-10 chars)
+            .replace(/[\r\n\t]+/g, ' ')           // Normalize line breaks, tabs, carriage returns
+            .replace(/\s+/g, ' ')                  // Normalize all whitespace to single spaces
+            .trim();
+        
+        // Split by whitespace and filter out empty strings and non-word tokens
+        const words = bodyText.split(/\s+/)
+            .filter(word => {
+                // Filter out empty strings and single non-word characters
+                return word.length > 0 && word.trim().length > 0;
+            })
+            .length;
+        
         return words;
     }
 

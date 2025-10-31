@@ -4,9 +4,9 @@
             "domain_name": "mysmartdigital.fr",
             "domainLength": 17,
             "total_pages_analyzed": 5,
-            "average_seo_score": 83,
+            "average_seo_score": 81,
             "overall_grade": "B",
-            "seo_score": 83,
+            "seo_score": 81,
             "seo_grade": "B",
             "pages_with_h1": 5,
             "pages_with_h1_percentage": 100,
@@ -16,7 +16,7 @@
             "pages_with_errors_percentage": 0,
             "average_title_length": 61,
             "average_description_length": 147,
-            "average_words_per_page": 1335,
+            "average_words_per_page": 1216,
             "average_internal_links": 26,
             "pages_with_successful_status": 5,
             "pages_with_successful_status_percentage": 100,
@@ -35,7 +35,7 @@
             "ssl_certificate_info": {
                 "is_valid": true,
                 "valid_until": "Dec 20 06:39:07 2025 GMT",
-                "days_until_expiry": 52,
+                "days_until_expiry": 51,
                 "issuer": "WE1",
                 "subject": "mysmartdigital.fr",
                 "serial_number": "9ABC9A0D1B47D9BB0E595E90E531C277",
@@ -47,6 +47,7 @@
                 "sitemap_url": "https://mysmartdigital.fr/sitemap_index.xml",
                 "sitemap_type": "sitemap_index",
                 "sitemap_size": 3,
+                "total_urls": 20,
                 "sitemap_urls": [
                     "https://mysmartdigital.fr/post-sitemap.xml",
                     "https://mysmartdigital.fr/page-sitemap.xml"
@@ -136,35 +137,14 @@
                     }
                 ],
                 "headingScore": 73,
-                "words": 959,
-                "wordcount": 959,
-                "wordcountcontentonly": 876,
-                "totalwordcount": 9302,
+                "words": 876,
                 "paragraphs": 23,
-                "strongTags": 4,
+                "strongTags": 0,
                 "loremIpsum": false,
                 "canonicalUrl": "https://mysmartdigital.fr/",
                 "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
                 "xRobots": "",
                 "hreflang": false,
-                "openGraphData": {
-                    "title": "Agence Wordpress | Liberez le potentiel de votre site WordPress !",
-                    "description": "Faites confiance à notre agence experte en WordPress pour la création, la maintenance et l'optimisation de votre site.",
-                    "image": "https://mysmartdigital.fr/wp-content/uploads/2023/01/Logo_profil.png",
-                    "url": "https://mysmartdigital.fr/",
-                    "site_name": "My Smart Digital",
-                    "type": "website",
-                    "locale": "fr_FR",
-                    "images": [
-                        {
-                            "url": "https://mysmartdigital.fr/wp-content/uploads/2023/01/Logo_profil.png",
-                            "alt": null,
-                            "width": "400",
-                            "height": "400",
-                            "type": "image/png"
-                        }
-                    ]
-                },
                 "openGraphTags": {
                     "og:locale": "fr_FR",
                     "og:type": "website",
@@ -730,18 +710,19 @@
                 ],
                 "imagesWithoutAlt": 16,
                 "iframes": 0,
-                "seo_page_score": 75,
+                "seo_page_score": 73,
                 "seo_grade": "C",
                 "seo_category": "Good",
-                "seo_issues_count": 3,
-                "notes": "Issues: title too long, missing/short meta description, 16 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
+                "seo_issues_count": 4,
+                "notes": "Issues: title too long, missing/short meta description, no emphasis tags, 16 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
                 "issues": [
                     "title too long",
                     "missing/short meta description",
+                    "no emphasis tags",
                     "16 images without alt text"
                 ],
                 "statusCode": 200,
-                "analysis_date": "2025-10-29T19:19:19.405Z",
+                "analysis_date": "2025-10-30T18:06:20.813Z",
                 "data_source": "msd_seo_audit"
             },
             {
@@ -825,35 +806,14 @@
                     }
                 ],
                 "headingScore": 73,
-                "words": 959,
-                "wordcount": 959,
-                "wordcountcontentonly": 876,
-                "totalwordcount": 9302,
+                "words": 876,
                 "paragraphs": 23,
-                "strongTags": 4,
+                "strongTags": 0,
                 "loremIpsum": false,
                 "canonicalUrl": "https://mysmartdigital.fr/",
                 "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
                 "xRobots": "",
                 "hreflang": false,
-                "openGraphData": {
-                    "title": "Agence Wordpress | Liberez le potentiel de votre site WordPress !",
-                    "description": "Faites confiance à notre agence experte en WordPress pour la création, la maintenance et l'optimisation de votre site.",
-                    "image": "https://mysmartdigital.fr/wp-content/uploads/2023/01/Logo_profil.png",
-                    "url": "https://mysmartdigital.fr/",
-                    "site_name": "My Smart Digital",
-                    "type": "website",
-                    "locale": "fr_FR",
-                    "images": [
-                        {
-                            "url": "https://mysmartdigital.fr/wp-content/uploads/2023/01/Logo_profil.png",
-                            "alt": null,
-                            "width": "400",
-                            "height": "400",
-                            "type": "image/png"
-                        }
-                    ]
-                },
                 "openGraphTags": {
                     "og:locale": "fr_FR",
                     "og:type": "website",
@@ -1419,18 +1379,19 @@
                 ],
                 "imagesWithoutAlt": 16,
                 "iframes": 0,
-                "seo_page_score": 75,
+                "seo_page_score": 73,
                 "seo_grade": "C",
                 "seo_category": "Good",
-                "seo_issues_count": 3,
-                "notes": "Issues: title too long, missing/short meta description, 16 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
+                "seo_issues_count": 4,
+                "notes": "Issues: title too long, missing/short meta description, no emphasis tags, 16 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
                 "issues": [
                     "title too long",
                     "missing/short meta description",
+                    "no emphasis tags",
                     "16 images without alt text"
                 ],
                 "statusCode": 200,
-                "analysis_date": "2025-10-29T19:19:23.599Z",
+                "analysis_date": "2025-10-30T18:06:24.033Z",
                 "data_source": "msd_seo_audit"
             },
             {
@@ -1521,35 +1482,14 @@
                     }
                 ],
                 "headingScore": 71,
-                "words": 1643,
-                "wordcount": 1643,
-                "wordcountcontentonly": 1503,
-                "totalwordcount": 12172,
+                "words": 1504,
                 "paragraphs": 34,
-                "strongTags": 4,
+                "strongTags": 0,
                 "loremIpsum": false,
                 "canonicalUrl": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
                 "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
                 "xRobots": "",
                 "hreflang": false,
-                "openGraphData": {
-                    "title": "Développement WordPress | Création de site & optimisation",
-                    "description": "Nous proposons un service de développement WordPress pour la création de site internet. Faites confiance à notre agence spécialisée Wordpress pour un résultat de qualité.",
-                    "image": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
-                    "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
-                    "site_name": "My Smart Digital",
-                    "type": "article",
-                    "locale": "fr_FR",
-                    "images": [
-                        {
-                            "url": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
-                            "alt": null,
-                            "width": null,
-                            "height": null,
-                            "type": null
-                        }
-                    ]
-                },
                 "openGraphTags": {
                     "og:locale": "fr_FR",
                     "og:type": "article",
@@ -2235,17 +2175,18 @@
                 ],
                 "imagesWithoutAlt": 29,
                 "iframes": 0,
-                "seo_page_score": 89,
+                "seo_page_score": 87,
                 "seo_grade": "B",
                 "seo_category": "Excellent",
-                "seo_issues_count": 2,
-                "notes": "Issues: meta description too long, 29 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
+                "seo_issues_count": 3,
+                "notes": "Issues: meta description too long, no emphasis tags, 29 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
                 "issues": [
                     "meta description too long",
+                    "no emphasis tags",
                     "29 images without alt text"
                 ],
                 "statusCode": 200,
-                "analysis_date": "2025-10-29T19:19:27.636Z",
+                "analysis_date": "2025-10-30T18:06:27.275Z",
                 "data_source": "msd_seo_audit"
             },
             {
@@ -2428,35 +2369,14 @@
                     }
                 ],
                 "headingScore": 71,
-                "words": 1830,
-                "wordcount": 1830,
-                "wordcountcontentonly": 1693,
-                "totalwordcount": 15134,
+                "words": 1693,
                 "paragraphs": 37,
-                "strongTags": 4,
+                "strongTags": 0,
                 "loremIpsum": false,
                 "canonicalUrl": "https://mysmartdigital.fr/maintenance-wordpress/",
                 "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
                 "xRobots": "",
                 "hreflang": false,
-                "openGraphData": {
-                    "title": "Maintenance WordPress | Experts spécialisés pour votre site !",
-                    "description": "Besoin de mettre votre site WordPress en maintenance ? Notre agence spécialisée WordPress vous offre une maintenance efficace, pour des résultats garantit.",
-                    "image": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Inseec-logo.png",
-                    "url": "https://mysmartdigital.fr/maintenance-wordpress/",
-                    "site_name": "My Smart Digital",
-                    "type": "article",
-                    "locale": "fr_FR",
-                    "images": [
-                        {
-                            "url": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Inseec-logo.png",
-                            "alt": null,
-                            "width": null,
-                            "height": null,
-                            "type": null
-                        }
-                    ]
-                },
                 "openGraphTags": {
                     "og:locale": "fr_FR",
                     "og:type": "article",
@@ -3136,17 +3056,18 @@
                 ],
                 "imagesWithoutAlt": 21,
                 "iframes": 0,
-                "seo_page_score": 87,
+                "seo_page_score": 85,
                 "seo_grade": "B",
                 "seo_category": "Excellent",
-                "seo_issues_count": 2,
-                "notes": "Issues: title too long, 21 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
+                "seo_issues_count": 3,
+                "notes": "Issues: title too long, no emphasis tags, 21 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
                 "issues": [
                     "title too long",
+                    "no emphasis tags",
                     "21 images without alt text"
                 ],
                 "statusCode": 200,
-                "analysis_date": "2025-10-29T19:19:32.323Z",
+                "analysis_date": "2025-10-30T18:06:31.215Z",
                 "data_source": "msd_seo_audit"
             },
             {
@@ -3315,35 +3236,14 @@
                     }
                 ],
                 "headingScore": 73,
-                "words": 1284,
-                "wordcount": 1284,
-                "wordcountcontentonly": 1129,
-                "totalwordcount": 11762,
+                "words": 1129,
                 "paragraphs": 29,
-                "strongTags": 4,
+                "strongTags": 0,
                 "loremIpsum": false,
                 "canonicalUrl": "https://mysmartdigital.fr/optimisation-performance-wordpress/",
                 "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
                 "xRobots": "",
                 "hreflang": false,
-                "openGraphData": {
-                    "title": "Optimisation WordPress | Performance de site qualitative",
-                    "description": "Confiez l'optimisation de votre site WordPress pour une performance qualitative à notre agence spécialisée. Découvrez nos solutions pour une expérience utilisateur optimale.",
-                    "image": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
-                    "url": "https://mysmartdigital.fr/optimisation-performance-wordpress/",
-                    "site_name": "My Smart Digital",
-                    "type": "article",
-                    "locale": "fr_FR",
-                    "images": [
-                        {
-                            "url": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
-                            "alt": null,
-                            "width": null,
-                            "height": null,
-                            "type": null
-                        }
-                    ]
-                },
                 "openGraphTags": {
                     "og:locale": "fr_FR",
                     "og:type": "article",
@@ -3879,23 +3779,24 @@
                 ],
                 "imagesWithoutAlt": 16,
                 "iframes": 0,
-                "seo_page_score": 89,
+                "seo_page_score": 87,
                 "seo_grade": "B",
                 "seo_category": "Excellent",
-                "seo_issues_count": 2,
-                "notes": "Issues: meta description too long, 16 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
+                "seo_issues_count": 3,
+                "notes": "Issues: meta description too long, no emphasis tags, 16 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
                 "issues": [
                     "meta description too long",
+                    "no emphasis tags",
                     "16 images without alt text"
                 ],
                 "statusCode": 200,
-                "analysis_date": "2025-10-29T19:19:37.120Z",
+                "analysis_date": "2025-10-30T18:06:34.694Z",
                 "data_source": "msd_seo_audit"
             }
         ],
         "analysis": {
             "total_pages_processed": 5,
-            "analysis_completed_at": "2025-10-29T19:19:37.197Z",
+            "analysis_completed_at": "2025-10-30T18:06:34.816Z",
             "seo_engine_version": "1.0.0",
             "data_format_version": "2.0"
         }
