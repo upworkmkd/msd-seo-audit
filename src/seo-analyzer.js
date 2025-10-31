@@ -14,6 +14,44 @@ class SEOAnalyzer {
         this.cheerio = cheerio;
     }
 
+    /**
+     * Extract the correct image source, handling lazy loading
+     * If src is a data URI placeholder (like data:image/svg+xml), check for lazy loading attributes
+     * @param {Object} $img - Cheerio image element
+     * @returns {string} - The actual image source URL
+     */
+    getImageSrc($img) {
+        const src = $img.attr('src') || '';
+        
+        // Check if src is a data URI placeholder (common for lazy loading)
+        const isDataUriPlaceholder = src.startsWith('data:image/svg+xml') || 
+                                     (src.startsWith('data:image/') && src.includes('svg'));
+        
+        if (isDataUriPlaceholder) {
+            // Check for lazy loading attributes in order of preference
+            const lazySrc = $img.attr('data-lazy-src') || 
+                           $img.attr('data-src') || 
+                           $img.attr('data-original') ||
+                           $img.attr('data-lazyload');
+            
+            if (lazySrc) {
+                return lazySrc;
+            }
+            
+            // Check data-srcset (take first URL if available)
+            const srcset = $img.attr('data-srcset');
+            if (srcset) {
+                const firstUrl = srcset.split(',')[0].trim().split(' ')[0];
+                if (firstUrl) {
+                    return firstUrl;
+                }
+            }
+        }
+        
+        // Return original src if not a placeholder or no lazy loading attribute found
+        return src;
+    }
+
     async analyzePage({ url, html, page, includeImages = true, maxImagesPerPage = -1, statusCode = 200 }) {
         const $ = this.cheerio.load(html);
         
@@ -87,9 +125,11 @@ class SEOAnalyzer {
         // Extract images without alt
         const imagesWithoutAlt = [];
         $('img[src]').each((i, el) => {
-            const alt = $(el).attr('alt');
-            if (!alt || alt.trim() === '') {
-                imagesWithoutAlt.push($(el).attr('src') || '');
+            const $img = $(el);
+            const src = this.getImageSrc($img);
+            const alt = $img.attr('alt');
+            if (src && !src.startsWith('data:image/svg+xml') && (!alt || alt.trim() === '')) {
+                imagesWithoutAlt.push(src);
             }
         });
         
@@ -534,10 +574,11 @@ class SEOAnalyzer {
         const imagesToProcess = maxImagesPerPage === -1 ? images : images.slice(0, maxImagesPerPage);
         
         imagesToProcess.each((_, img) => {
-            const src = $(img).attr('src');
-            const alt = $(img).attr('alt');
+            const $img = $(img);
+            const src = this.getImageSrc($img);
+            const alt = $img.attr('alt');
             
-            if (src) {
+            if (src && !src.startsWith('data:image/svg+xml')) {
                 try {
                     const imageUrl = new URL(src, baseUrl).href;
                     images_list.push(imageUrl);
@@ -640,9 +681,9 @@ class SEOAnalyzer {
         for (let i = 0; i < imageElements.length && i < maxImages; i++) {
             const el = imageElements[i];
             const $img = $(el);
-            const src = $img.attr('src');
+            const src = this.getImageSrc($img);
 
-            if (!src) continue;
+            if (!src || src.startsWith('data:image/svg+xml')) continue;
 
             try {
                 let fullUrl;
