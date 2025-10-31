@@ -128,7 +128,8 @@ Actor.main(async () => {
                 results.push(result);
                 
                 // Track this page analysis as a billable event for monetization
-                await Actor.incrementUsageCounter('PAGE_ANALYZED');
+                const currentCount = (await Actor.getValue('PAGE_ANALYZED')) || 0;
+                await Actor.setValue('PAGE_ANALYZED', currentCount + 1);
                 
                 console.log(`Completed analysis for: ${normalizedUrl} (Status: ${statusCode})`);
                 console.log(`SEO Score: ${scoreData.seo_page_score}/100 (${scoreData.seo_grade})`);
