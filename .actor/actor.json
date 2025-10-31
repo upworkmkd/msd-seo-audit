@@ -8,5 +8,15 @@
 		"templateId": "puppeteer_single_page"
 	},
 	"input": "../input_schema.json",
-	"dockerfile": "../Dockerfile"
+	"dockerfile": "../Dockerfile",
+	"storages": {
+		"dataset": "./dataset_schema.json"
+	},
+	"output": "./output_schema.json",
+	"usageCounters": {
+		"PAGE_ANALYZED": {
+			"label": "Pages analyzed",
+			"description": "Number of web pages analyzed for comprehensive SEO audit"
+		}
+	}
 }

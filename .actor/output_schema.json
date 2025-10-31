@@ -1,0 +1,26 @@
+{
+	"actorOutputSchemaVersion": 1,
+	"title": "SEO Audit Output Schema",
+	"description": "Output schema for MSD SEO Audit Actor results",
+	"properties": {
+		"results": {
+			"type": "string",
+			"title": "SEO Audit Results",
+			"description": "Comprehensive SEO analysis results including domain-level metrics and per-page analysis",
+			"template": "{{links.apiDefaultDatasetUrl}}/items"
+		},
+		"overview": {
+			"type": "string",
+			"title": "Domain Overview",
+			"description": "High-level domain SEO metrics and summary",
+			"template": "{{links.apiDefaultDatasetUrl}}/items?view=overview"
+		},
+		"pages": {
+			"type": "string",
+			"title": "Page Analysis",
+			"description": "Detailed SEO analysis for each page",
+			"template": "{{links.apiDefaultDatasetUrl}}/items?view=pages"
+		}
+	}
+}
+

@@ -1,0 +1,146 @@
+{
+	"actorSpecification": 1,
+	"fields": {
+		"type": "object",
+		"properties": {
+			"domain": {
+				"type": "object",
+				"description": "Aggregated SEO statistics and analysis for the entire domain"
+			},
+			"pages": {
+				"type": "array",
+				"description": "Detailed SEO analysis results for each analyzed page"
+			},
+			"analysis": {
+				"type": "object",
+				"description": "Metadata about the SEO analysis run"
+			}
+		}
+	},
+	"views": {
+		"overview": {
+			"title": "Domain Overview",
+			"description": "High-level domain SEO metrics and summary",
+			"transformation": {
+				"fields": [
+					"domain.domain_name",
+					"domain.seo_score",
+					"domain.seo_grade",
+					"domain.total_pages_analyzed",
+					"domain.pages_with_successful_status_percentage",
+					"domain.ssl_certificate_info",
+					"domain.sitemap_size",
+					"domain.total_links_in_sitemap",
+					"analysis.analysis_completed_at"
+				],
+				"flatten": ["domain", "analysis"]
+			},
+			"display": {
+				"component": "table",
+				"properties": {
+					"domain.domain_name": {
+						"label": "Domain",
+						"format": "text"
+					},
+					"domain.seo_score": {
+						"label": "SEO Score",
+						"format": "number"
+					},
+					"domain.seo_grade": {
+						"label": "SEO Grade",
+						"format": "text"
+					},
+					"domain.total_pages_analyzed": {
+						"label": "Pages Analyzed",
+						"format": "number"
+					},
+					"domain.pages_with_successful_status_percentage": {
+						"label": "Success Rate (%)",
+						"format": "number"
+					},
+					"domain.ssl_certificate_info.status": {
+						"label": "SSL Status",
+						"format": "text"
+					},
+					"domain.sitemap_size": {
+						"label": "Sitemap URLs",
+						"format": "number"
+					},
+					"analysis.analysis_completed_at": {
+						"label": "Analysis Date",
+						"format": "date"
+					}
+				}
+			}
+		},
+		"pages": {
+			"title": "Page Analysis",
+			"description": "Detailed SEO analysis for each page",
+			"transformation": {
+				"fields": [
+					"url",
+					"title",
+					"statusCode",
+					"seo_page_score",
+					"seo_grade",
+					"h1Count",
+					"h2Count",
+					"descriptionLength",
+					"words",
+					"internalLinksCount",
+					"externalLinksCount",
+					"brokenLinksCount",
+					"imagesWithoutAlt",
+					"analysis_date"
+				],
+				"unwind": ["pages"]
+			},
+			"display": {
+				"component": "table",
+				"properties": {
+					"url": {
+						"label": "Page URL",
+						"format": "link"
+					},
+					"title": {
+						"label": "Page Title",
+						"format": "text"
+					},
+					"statusCode": {
+						"label": "Status",
+						"format": "number"
+					},
+					"seo_page_score": {
+						"label": "SEO Score",
+						"format": "number"
+					},
+					"seo_grade": {
+						"label": "Grade",
+						"format": "text"
+					},
+					"h1Count": {
+						"label": "H1 Count",
+						"format": "number"
+					},
+					"words": {
+						"label": "Word Count",
+						"format": "number"
+					},
+					"brokenLinksCount": {
+						"label": "Broken Links",
+						"format": "number"
+					},
+					"imagesWithoutAlt": {
+						"label": "Images w/o Alt",
+						"format": "number"
+					},
+					"analysis_date": {
+						"label": "Analysis Date",
+						"format": "date"
+					}
+				}
+			}
+		}
+	}
+}
+

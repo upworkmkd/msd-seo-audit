@@ -4,9 +4,9 @@
             "domain_name": "mysmartdigital.fr",
             "domainLength": 17,
             "total_pages_analyzed": 5,
-            "average_seo_score": 81,
+            "average_seo_score": 83.4,
             "overall_grade": "B",
-            "seo_score": 81,
+            "seo_score": 83.4,
             "seo_grade": "B",
             "pages_with_h1": 5,
             "pages_with_h1_percentage": 100,
@@ -15,8 +15,8 @@
             "pages_with_errors": 0,
             "pages_with_errors_percentage": 0,
             "average_title_length": 61,
-            "average_description_length": 147,
-            "average_words_per_page": 1216,
+            "average_description_length": 149,
+            "average_words_per_page": 1267,
             "average_internal_links": 26,
             "pages_with_successful_status": 5,
             "pages_with_successful_status_percentage": 100,
@@ -35,7 +35,7 @@
             "ssl_certificate_info": {
                 "is_valid": true,
                 "valid_until": "Dec 20 06:39:07 2025 GMT",
-                "days_until_expiry": 51,
+                "days_until_expiry": 50,
                 "issuer": "WE1",
                 "subject": "mysmartdigital.fr",
                 "serial_number": "9ABC9A0D1B47D9BB0E595E90E531C277",
@@ -408,104 +408,104 @@
                 "brokenLinksPercentage": 3,
                 "images": [
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2040'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
                         "imageIndex": 1,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30120,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "My Smart Digital",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20175'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
                         "imageIndex": 2,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30120,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "My Smart Digital",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20115%2045'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
                         "imageIndex": 3,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30120,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "My Smart Digital",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
                         "imageIndex": 4,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 23631,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Horizon Software",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 23631,
+                        "sizeInKb": 23.63
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Inseec-logo.png",
                         "imageIndex": 5,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 14256,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Inseec msc",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 14256,
+                        "sizeInKb": 14.26
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/lda-logo.png",
                         "imageIndex": 6,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 28146,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Louis Dreyfus",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 28146,
+                        "sizeInKb": 28.15
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/digital-college-logo.png",
                         "imageIndex": 7,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 6398,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Digital College",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 6398,
+                        "sizeInKb": 6.4
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20795%2094'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2025/04/Datawords_Logo_1-1.webp",
                         "imageIndex": 8,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 11480,
+                        "contentType": "image/webp",
                         "statusCode": 200,
                         "alt": "Datawords",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 11480,
+                        "sizeInKb": 11.48
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Wezen-logo.png",
                         "imageIndex": 9,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 17091,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Wezen",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 17091,
+                        "sizeInKb": 17.09
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2022/12/WordPress-logotype-wmark.png",
                         "imageIndex": 10,
-                        "contentLength": 66,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 23990,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 66,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 23990,
+                        "sizeInKb": 23.99
                     },
                     {
                         "imageUrl": "https://mysmartdigital.fr/wp-content/plugins/pixfort-core/functions/images/loading.webp",
@@ -538,174 +538,174 @@
                         "sizeInKb": 5.83
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/femme-qui-sadmire-face-a-son-miroir.jpeg",
                         "imageIndex": 14,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 103571,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 103571,
+                        "sizeInKb": 103.57
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/homme-heureux-qui-ecoute-de-la-musique-avec-son-casque.jpeg",
                         "imageIndex": 15,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 100289,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 100289,
+                        "sizeInKb": 100.29
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/femme-heureuse-face-a-son-ordinateur-qui-affiche-des-resultats-positifs.jpeg",
                         "imageIndex": 16,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 45215,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 45215,
+                        "sizeInKb": 45.22
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
                         "imageIndex": 17,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 23631,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 23631,
+                        "sizeInKb": 23.63
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Datawords-logo.png",
                         "imageIndex": 18,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 5790,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 5790,
+                        "sizeInKb": 5.79
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/la-fabrique-generale.png",
                         "imageIndex": 19,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 14034,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 14034,
+                        "sizeInKb": 14.03
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/eclat-de-verre.png",
                         "imageIndex": 20,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 8515,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 8515,
+                        "sizeInKb": 8.52
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/babylone-tapis.png",
                         "imageIndex": 21,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 7854,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 7854,
+                        "sizeInKb": 7.85
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/mclloyd.png",
                         "imageIndex": 22,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 5618,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 5618,
+                        "sizeInKb": 5.62
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/lda-logo.png",
                         "imageIndex": 23,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 28146,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 28146,
+                        "sizeInKb": 28.15
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/digital-college-logo.png",
                         "imageIndex": 24,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 6398,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 6398,
+                        "sizeInKb": 6.4
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/fitbrothers.png",
                         "imageIndex": 25,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 4495,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 4495,
+                        "sizeInKb": 4.5
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/danet-patrimoine.png",
                         "imageIndex": 26,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 10192,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 10192,
+                        "sizeInKb": 10.19
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/diane-de-polignac.png",
                         "imageIndex": 27,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 4202,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 4202,
+                        "sizeInKb": 4.2
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/exatice.png",
                         "imageIndex": 28,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 19123,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 19123,
+                        "sizeInKb": 19.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202000%20700'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/elementor/thumbs/realisation-site-web-wordpress-agence-q3uo8d9absxzo9mz5nop2d71lv07wzr8gnhwj7i2c8.jpeg",
                         "imageIndex": 29,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 198400,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "Nos réalisations de site WordPress. Nos clients nous ont confié le développement de leur site WordPress.",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 198400,
+                        "sizeInKb": 198.4
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2027'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/02/linkedin-logo-png-transparent.png",
                         "imageIndex": 30,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 1929,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Linkedin Logo",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 1929,
+                        "sizeInKb": 1.93
                     }
                 ],
                 "imagesWithoutAlt": 16,
@@ -722,676 +722,7 @@
                     "16 images without alt text"
                 ],
                 "statusCode": 200,
-                "analysis_date": "2025-10-30T18:06:20.813Z",
-                "data_source": "msd_seo_audit"
-            },
-            {
-                "url": "https://mysmartdigital.fr/",
-                "pageStatusCode": 200,
-                "language": "fr-FR",
-                "hasHttps": true,
-                "pageHttpsStatus": true,
-                "hasHreflang": false,
-                "hasOpenGraph": true,
-                "hasTwitterCards": true,
-                "hasSchema": true,
-                "hasJsonLd": true,
-                "hasMicrodata": true,
-                "hasAmp": false,
-                "hasGoogleAnalytics": false,
-                "viewport": true,
-                "mobileResponsive": true,
-                "charset": true,
-                "favicon": true,
-                "appleTouchIcon": true,
-                "title": "Agence Wordpress | Liberez le potentiel de votre site WordPress !",
-                "titleLength": 65,
-                "titleDuplicateWords": 1,
-                "allTitles": [
-                    "Agence Wordpress | Liberez le potentiel de votre site WordPress !"
-                ],
-                "titleCount": 1,
-                "headTitleCount": 1,
-                "description": "Faites confiance à notre agence experte en WordPress pour la création, la maintenance et l'optimisation de votre site.",
-                "descriptionLength": 118,
-                "h1": [
-                    "Agence WordPress"
-                ],
-                "h2": [
-                    "Un WordPress  plus simple performant rapide intelligent",
-                    "Développement de site WordPress",
-                    "Maintenance de site WordPress",
-                    "Optimisation des performances WordPress"
-                ],
-                "h3": [],
-                "h4": [],
-                "h5": [],
-                "h6": [],
-                "h1Count": 1,
-                "h2Count": 4,
-                "h3Count": 0,
-                "h4Count": 0,
-                "h5Count": 0,
-                "h6Count": 0,
-                "headingStructure": [
-                    {
-                        "tag": "h1",
-                        "level": 1,
-                        "text": "Agence WordPress",
-                        "position": 1
-                    },
-                    {
-                        "tag": "h2",
-                        "level": 2,
-                        "text": "Un WordPress  plus simple performant rapide intelligent",
-                        "position": 2
-                    },
-                    {
-                        "tag": "h2",
-                        "level": 2,
-                        "text": "Développement de site WordPress",
-                        "position": 3
-                    },
-                    {
-                        "tag": "h2",
-                        "level": 2,
-                        "text": "Maintenance de site WordPress",
-                        "position": 4
-                    },
-                    {
-                        "tag": "h2",
-                        "level": 2,
-                        "text": "Optimisation des performances WordPress",
-                        "position": 5
-                    }
-                ],
-                "headingScore": 73,
-                "words": 876,
-                "paragraphs": 23,
-                "strongTags": 0,
-                "loremIpsum": false,
-                "canonicalUrl": "https://mysmartdigital.fr/",
-                "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-                "xRobots": "",
-                "hreflang": false,
-                "openGraphTags": {
-                    "og:locale": "fr_FR",
-                    "og:type": "website",
-                    "og:title": "Agence Wordpress | Liberez le potentiel de votre site WordPress !",
-                    "og:description": "Faites confiance à notre agence experte en WordPress pour la création, la maintenance et l'optimisation de votre site.",
-                    "og:url": "https://mysmartdigital.fr/",
-                    "og:site_name": "My Smart Digital",
-                    "og:image": "https://mysmartdigital.fr/wp-content/uploads/2023/01/Logo_profil.png",
-                    "og:image:width": "400",
-                    "og:image:height": "400",
-                    "og:image:type": "image/png"
-                },
-                "internalLinks": [
-                    {
-                        "url": "https://mysmartdigital.fr/",
-                        "anchorText": "<img class=\"pix-logo\" height=\"40\" width=\"102.85714285714\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\" >\n                                                            <img width=\"450\" height=\"175\" class=\"pix-logo-scroll\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\">",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
-                        "anchorText": "Développement WordPress",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
-                        "anchorText": "Maintenance WordPress",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/optimisation-performance-wordpress/",
-                        "anchorText": "Optimisation des performances",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
-                        "anchorText": "Hebergement WordPress",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/agence/",
-                        "anchorText": "Agence",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
-                        "anchorText": "Blog",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/",
-                        "anchorText": "<img src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" height=\"45\" width=\"115.71428571429\" style=\"height:45px;width:auto;\">",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
-                        "anchorText": "Développement WordPress",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
-                        "anchorText": "Maintenance WordPress",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
-                        "anchorText": "Hebergement WordPress",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/agence/",
-                        "anchorText": "L’Agence",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
-                        "anchorText": "Le Blog",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
-                        "anchorText": "En savoir plus",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
-                        "anchorText": "En savoir plus",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/optimisation-wordpress-performance-de-site-qualitative/",
-                        "anchorText": "En savoir plus",
-                        "target": null,
-                        "statusCode": 404,
-                        "isBroken": true
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/mentions-legales/",
-                        "anchorText": "Mentions légales",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/agence/",
-                        "anchorText": "Agence",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/contact/",
-                        "anchorText": "Contact",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/mentions-legales/",
-                        "anchorText": "Mentions légales",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/agence/",
-                        "anchorText": "Agence",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/contact/",
-                        "anchorText": "Contact",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/mentions-legales/",
-                        "anchorText": "Mentions légales",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/agence/",
-                        "anchorText": "Agence",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/contact/",
-                        "anchorText": "Contact",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/mentions-legales/",
-                        "anchorText": "Mentions légales",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/agence/",
-                        "anchorText": "Agence",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "https://mysmartdigital.fr/contact/",
-                        "anchorText": "Contact",
-                        "target": null,
-                        "statusCode": 200,
-                        "isBroken": false
-                    }
-                ],
-                "internalLinksCount": 28,
-                "externalLinks": [
-                    {
-                        "url": "http://app.mysmartdigital.fr/",
-                        "anchorText": "Espace client",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "http://calendly.com/serkan-msd/30min",
-                        "anchorText": "RÉSERVER UN APPEL",
-                        "target": "\"_blank\"",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "http://app.mysmartdigital.fr/",
-                        "anchorText": "Espace client",
-                        "target": "_self",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "http://calendly.com/serkan-msd/30min",
-                        "anchorText": "Je réserve un appel de découverte",
-                        "target": "_blank",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "http://calendly.com/serkan-msd/30min",
-                        "anchorText": "JE RÉSERVE UN APPEL",
-                        "target": "_blank",
-                        "statusCode": 200,
-                        "isBroken": false
-                    },
-                    {
-                        "url": "http://calendly.com/serkan-msd/30min",
-                        "anchorText": "JE RÉSERVE UN APPEL",
-                        "target": "_blank",
-                        "statusCode": 200,
-                        "isBroken": false
-                    }
-                ],
-                "externalLinksCount": 6,
-                "averageAnchorTextLength": 55,
-                "brokenInternalLinks": 1,
-                "brokenExternalLinks": 0,
-                "totalBrokenLinks": 1,
-                "brokenLinksPercentage": 3,
-                "images": [
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2040'%3E%3C/svg%3E",
-                        "imageIndex": 1,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "My Smart Digital",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20175'%3E%3C/svg%3E",
-                        "imageIndex": 2,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "My Smart Digital",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20115%2045'%3E%3C/svg%3E",
-                        "imageIndex": 3,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "My Smart Digital",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 4,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "Horizon Software",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 5,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "Inseec msc",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 6,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "Louis Dreyfus",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 7,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "Digital College",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20795%2094'%3E%3C/svg%3E",
-                        "imageIndex": 8,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "Datawords",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 9,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "Wezen",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E",
-                        "imageIndex": 10,
-                        "contentLength": 66,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 66,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "https://mysmartdigital.fr/wp-content/plugins/pixfort-core/functions/images/loading.webp",
-                        "imageIndex": 11,
-                        "contentLength": 5832,
-                        "contentType": "image/webp",
-                        "statusCode": 200,
-                        "alt": "Le SMART choix pour votre site WordPress",
-                        "sizeInByte": 5832,
-                        "sizeInKb": 5.83
-                    },
-                    {
-                        "imageUrl": "https://mysmartdigital.fr/wp-content/plugins/pixfort-core/functions/images/loading.webp",
-                        "imageIndex": 12,
-                        "contentLength": 5832,
-                        "contentType": "image/webp",
-                        "statusCode": 200,
-                        "alt": "L'état de santé de votre site en temps réel",
-                        "sizeInByte": 5832,
-                        "sizeInKb": 5.83
-                    },
-                    {
-                        "imageUrl": "https://mysmartdigital.fr/wp-content/plugins/pixfort-core/functions/images/loading.webp",
-                        "imageIndex": 13,
-                        "contentLength": 5832,
-                        "contentType": "image/webp",
-                        "statusCode": 200,
-                        "alt": "Des solutions complètes et bien pensées",
-                        "sizeInByte": 5832,
-                        "sizeInKb": 5.83
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
-                        "imageIndex": 14,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
-                        "imageIndex": 15,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
-                        "imageIndex": 16,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 17,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 18,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 19,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 20,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 21,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 22,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 23,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 24,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 25,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 26,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 27,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
-                        "imageIndex": 28,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202000%20700'%3E%3C/svg%3E",
-                        "imageIndex": 29,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "Nos réalisations de site WordPress. Nos clients nous ont confié le développement de leur site WordPress.",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
-                    },
-                    {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2027'%3E%3C/svg%3E",
-                        "imageIndex": 30,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
-                        "statusCode": 200,
-                        "alt": "Linkedin Logo",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
-                    }
-                ],
-                "imagesWithoutAlt": 16,
-                "iframes": 0,
-                "seo_page_score": 73,
-                "seo_grade": "C",
-                "seo_category": "Good",
-                "seo_issues_count": 4,
-                "notes": "Issues: title too long, missing/short meta description, no emphasis tags, 16 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
-                "issues": [
-                    "title too long",
-                    "missing/short meta description",
-                    "no emphasis tags",
-                    "16 images without alt text"
-                ],
-                "statusCode": 200,
-                "analysis_date": "2025-10-30T18:06:24.033Z",
+                "analysis_date": "2025-10-31T17:03:59.113Z",
                 "data_source": "msd_seo_audit"
             },
             {
@@ -1743,204 +1074,204 @@
                 "brokenLinksPercentage": 0,
                 "images": [
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2040'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
                         "imageIndex": 1,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30120,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "My Smart Digital",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20175'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
                         "imageIndex": 2,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30120,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "My Smart Digital",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20115%2045'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
                         "imageIndex": 3,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30120,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "My Smart Digital",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
                         "imageIndex": 4,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 23631,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 23631,
+                        "sizeInKb": 23.63
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Datawords-logo.png",
                         "imageIndex": 5,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 5790,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 5790,
+                        "sizeInKb": 5.79
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/la-fabrique-generale.png",
                         "imageIndex": 6,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 14034,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 14034,
+                        "sizeInKb": 14.03
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/eclat-de-verre.png",
                         "imageIndex": 7,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 8515,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 8515,
+                        "sizeInKb": 8.52
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/babylone-tapis.png",
                         "imageIndex": 8,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 7854,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 7854,
+                        "sizeInKb": 7.85
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/mclloyd.png",
                         "imageIndex": 9,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 5618,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 5618,
+                        "sizeInKb": 5.62
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/lda-logo.png",
                         "imageIndex": 10,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 28146,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 28146,
+                        "sizeInKb": 28.15
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/digital-college-logo.png",
                         "imageIndex": 11,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 6398,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 6398,
+                        "sizeInKb": 6.4
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/fitbrothers.png",
                         "imageIndex": 12,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 4495,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 4495,
+                        "sizeInKb": 4.5
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/danet-patrimoine.png",
                         "imageIndex": 13,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 10192,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 10192,
+                        "sizeInKb": 10.19
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/diane-de-polignac.png",
                         "imageIndex": 14,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 4202,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 4202,
+                        "sizeInKb": 4.2
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/exatice.png",
                         "imageIndex": 15,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 19123,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 19123,
+                        "sizeInKb": 19.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20167'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/montre-du-doigt-les-performances-du-site-sur-ordinateur.jpeg",
                         "imageIndex": 16,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 10004,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "Des performances optimales pour un temps de chargement record",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 10004,
+                        "sizeInKb": 10
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20167'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/groupe-de-personne-qui-apprecie-lexperience-utilisateur.jpeg",
                         "imageIndex": 17,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 9154,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "Une expérience utilisateur parfaite sur tous les écrans",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 9154,
+                        "sizeInKb": 9.15
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2022/12/WordPress-logotype-wmark.png",
                         "imageIndex": 18,
-                        "contentLength": 66,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 23990,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 66,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 23990,
+                        "sizeInKb": 23.99
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20255'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/bouton-pour-activer-les-performances.jpeg",
                         "imageIndex": 19,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 12544,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "Un site SEO friendly pour booster votre visibilité",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 12544,
+                        "sizeInKb": 12.54
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20600'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/femme-qui-verifie-la-protection-de-ses-donnees-sur-son-ordinateur.jpeg",
                         "imageIndex": 20,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 83333,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "Une sécurité renforcée pour protéger vos données",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 83333,
+                        "sizeInKb": 83.33
                     },
                     {
                         "imageUrl": "https://mysmartdigital.fr/wp-content/plugins/pixfort-core/functions/images/loading.webp",
@@ -1983,194 +1314,194 @@
                         "sizeInKb": 5.83
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/jeune-fille-heureuse-et-surprise-qui-decouvre-la-conversion-de-son-site-evoluee.png",
                         "imageIndex": 25,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 90684,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 90684,
+                        "sizeInKb": 90.68
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/jeune-couple-heureux-de-la-visibilite-de-leur-site-sur-les-moteurs-de-recherche.jpeg",
                         "imageIndex": 26,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 42401,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 42401,
+                        "sizeInKb": 42.4
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/online-wallet-concept-happy-black-guy-holding-sma-2022-12-16-07-12-29-utc.jpg",
                         "imageIndex": 27,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 87734,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 87734,
+                        "sizeInKb": 87.73
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201817%201022'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/integration-de-vos-outils-wordpress.png",
                         "imageIndex": 28,
-                        "contentLength": 66,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 305549,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Des outils performants choisis par nos experts pour faciliter l'utilisation de votre site.",
-                        "sizeInByte": 66,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 305549,
+                        "sizeInKb": 305.55
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
                         "imageIndex": 29,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 23631,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 23631,
+                        "sizeInKb": 23.63
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Datawords-logo.png",
                         "imageIndex": 30,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 5790,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 5790,
+                        "sizeInKb": 5.79
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/la-fabrique-generale.png",
                         "imageIndex": 31,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 14034,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 14034,
+                        "sizeInKb": 14.03
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/eclat-de-verre.png",
                         "imageIndex": 32,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 8515,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 8515,
+                        "sizeInKb": 8.52
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/babylone-tapis.png",
                         "imageIndex": 33,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 7854,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 7854,
+                        "sizeInKb": 7.85
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/mclloyd.png",
                         "imageIndex": 34,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 5618,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 5618,
+                        "sizeInKb": 5.62
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/lda-logo.png",
                         "imageIndex": 35,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 28146,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 28146,
+                        "sizeInKb": 28.15
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/digital-college-logo.png",
                         "imageIndex": 36,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 6398,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 6398,
+                        "sizeInKb": 6.4
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/fitbrothers.png",
                         "imageIndex": 37,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 4495,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 4495,
+                        "sizeInKb": 4.5
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/danet-patrimoine.png",
                         "imageIndex": 38,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 10192,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 10192,
+                        "sizeInKb": 10.19
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/diane-de-polignac.png",
                         "imageIndex": 39,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 4202,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 4202,
+                        "sizeInKb": 4.2
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/exatice.png",
                         "imageIndex": 40,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 19123,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 19123,
+                        "sizeInKb": 19.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202000%20700'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/elementor/thumbs/performance-site-web-wordpress-agence-q3uo1f87tvfpvzq5pnlxn4afld8l1i6mu9yqvlssbc.jpeg",
                         "imageIndex": 41,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 198400,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "Réalisation et optimisation des performances des sites WordPress de nos clients.",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 198400,
+                        "sizeInKb": 198.4
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2022/12/wordpress-logo-24439D45A6-seeklogo.com_.png",
                         "imageIndex": 42,
-                        "contentLength": 62,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 0,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 62,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 0,
+                        "sizeInKb": 0
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2027'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/02/linkedin-logo-png-transparent.png",
                         "imageIndex": 43,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 1929,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Linkedin Logo",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 1929,
+                        "sizeInKb": 1.93
                     }
                 ],
                 "imagesWithoutAlt": 29,
@@ -2186,7 +1517,7 @@
                     "29 images without alt text"
                 ],
                 "statusCode": 200,
-                "analysis_date": "2025-10-30T18:06:27.275Z",
+                "analysis_date": "2025-10-31T17:04:06.644Z",
                 "data_source": "msd_seo_audit"
             },
             {
@@ -2644,414 +1975,414 @@
                 "brokenLinksPercentage": 0,
                 "images": [
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2040'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
                         "imageIndex": 1,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30120,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "My Smart Digital",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20175'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
                         "imageIndex": 2,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30120,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "My Smart Digital",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20115%2045'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
                         "imageIndex": 3,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30120,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "My Smart Digital",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Inseec-logo.png",
                         "imageIndex": 4,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 14256,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 14256,
+                        "sizeInKb": 14.26
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
                         "imageIndex": 5,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 23631,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 23631,
+                        "sizeInKb": 23.63
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20795%2094'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2025/04/Datawords_Logo_1-1.webp",
                         "imageIndex": 6,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 11480,
+                        "contentType": "image/webp",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 11480,
+                        "sizeInKb": 11.48
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/lda-logo.png",
                         "imageIndex": 7,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 28146,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 28146,
+                        "sizeInKb": 28.15
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/mclloyd.png",
                         "imageIndex": 8,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 5618,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 5618,
+                        "sizeInKb": 5.62
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/digital-college-logo.png",
                         "imageIndex": 9,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 6398,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 6398,
+                        "sizeInKb": 6.4
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/eclat-de-verre.png",
                         "imageIndex": 10,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 8515,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 8515,
+                        "sizeInKb": 8.52
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/diane-de-polignac.png",
                         "imageIndex": 11,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 4202,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 4202,
+                        "sizeInKb": 4.2
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/la-fabrique-generale.png",
                         "imageIndex": 12,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 14034,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 14034,
+                        "sizeInKb": 14.03
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/babylone-tapis.png",
                         "imageIndex": 13,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 7854,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 7854,
+                        "sizeInKb": 7.85
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/fitbrothers.png",
                         "imageIndex": 14,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 4495,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 4495,
+                        "sizeInKb": 4.5
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/danet-patrimoine.png",
                         "imageIndex": 15,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 10192,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 10192,
+                        "sizeInKb": 10.19
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/exatice.png",
                         "imageIndex": 16,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 19123,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 19123,
+                        "sizeInKb": 19.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/jeune-homme-heureux-qui-commande-sur-son-ordinateur.jpeg",
                         "imageIndex": 17,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 56380,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 56380,
+                        "sizeInKb": 56.38
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/jeune-femme-chuchote-des-mots.jpeg",
                         "imageIndex": 18,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 67665,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 67665,
+                        "sizeInKb": 67.67
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202226%202560'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/femme-heureuse-avec-billet-davion-profite-du-soleil.jpeg",
                         "imageIndex": 19,
-                        "contentLength": 66,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 500864,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 66,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 500864,
+                        "sizeInKb": 500.86
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20167'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/montre-du-doigt-les-performances-du-site-sur-ordinateur.jpeg",
                         "imageIndex": 20,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 10004,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "Maintenance préventive",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 10004,
+                        "sizeInKb": 10
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20167'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/groupe-de-personne-qui-apprecie-lexperience-utilisateur.jpeg",
                         "imageIndex": 21,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 9154,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "Maintenance évolutive",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 9154,
+                        "sizeInKb": 9.15
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2022/12/wordpress-logo-24439D45A6-seeklogo.com_.png",
                         "imageIndex": 22,
-                        "contentLength": 62,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 0,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 62,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 0,
+                        "sizeInKb": 0
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20255'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/bouton-pour-activer-les-performances.jpeg",
                         "imageIndex": 23,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 12544,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "Optimisation des performances",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 12544,
+                        "sizeInKb": 12.54
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/homme-qui-gere-son-support-client.jpeg",
                         "imageIndex": 24,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 44156,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "Conseil et support client",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 44156,
+                        "sizeInKb": 44.16
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2022/12/WordPress-logotype-wmark.png",
                         "imageIndex": 25,
-                        "contentLength": 66,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 23990,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 66,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 23990,
+                        "sizeInKb": 23.99
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20634'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/securite-mises-a-jour.png",
                         "imageIndex": 26,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 51916,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Mises à jour sécurisées",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 51916,
+                        "sizeInKb": 51.92
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20604'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/sauvegarde-journalieres.png",
                         "imageIndex": 27,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 55062,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Sauvegardes journalières",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 55062,
+                        "sizeInKb": 55.06
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20613'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/suivi-securite.png",
                         "imageIndex": 28,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30544,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Suivi de la sécurité",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 30544,
+                        "sizeInKb": 30.54
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20611'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/suivi-performance.png",
                         "imageIndex": 29,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 37702,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Suivi des performances",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 37702,
+                        "sizeInKb": 37.7
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20604'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/disponibilite-site.png",
                         "imageIndex": 30,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 37964,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Disponibilité du site",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 37964,
+                        "sizeInKb": 37.96
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20912%20604'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/liens-casses.png",
                         "imageIndex": 31,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 41694,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Vérification des liens cassés",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 41694,
+                        "sizeInKb": 41.69
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20913%20620'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/suivi-analytics.png",
                         "imageIndex": 32,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 44592,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Suivi Analytics",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 44592,
+                        "sizeInKb": 44.59
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20607'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/intervention-de-nos-experts.png",
                         "imageIndex": 33,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 49934,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Intervention de nos experts",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 49934,
+                        "sizeInKb": 49.93
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20618'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/assistance-wordpress.png",
                         "imageIndex": 34,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 45176,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 45176,
+                        "sizeInKb": 45.18
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20650%20433'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/esprit-tranquille-2.jpeg",
                         "imageIndex": 35,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 37950,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "Image",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 37950,
+                        "sizeInKb": 37.95
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20106'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/elementor/thumbs/tarifs-uniques-q3spxs6w9lc1b7xk6rjv97pmto6vgls6wbhjcau36s.png",
                         "imageIndex": 36,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 11856,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "tarifs-uniques",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 11856,
+                        "sizeInKb": 11.86
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20106'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/elementor/thumbs/assistance-gratuite-q3sq05q7jil4nqhbbaix244kvqh9x27rk2uq0hb9gk.png",
                         "imageIndex": 37,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 7730,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "assistance-gratuite",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 7730,
+                        "sizeInKb": 7.73
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20110'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/elementor/thumbs/paiements-securises-q3sq263s5rc7hpk6knt6w3v2mekjdr73i133ysby6k.png",
                         "imageIndex": 38,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 8022,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Notre prestataire de paiement Stripe, garantit le niveau de sécurité le plus élévé lors de vos transactions.",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 8022,
+                        "sizeInKb": 8.02
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20620%20220'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/02/paiement-securise-stripe.png",
                         "imageIndex": 39,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 56440,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 56440,
+                        "sizeInKb": 56.44
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2022/12/wordpress-logo-24439D45A6-seeklogo.com_.png",
                         "imageIndex": 40,
-                        "contentLength": 62,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 0,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 62,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 0,
+                        "sizeInKb": 0
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2027'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/02/linkedin-logo-png-transparent.png",
                         "imageIndex": 41,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 1929,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Linkedin Logo",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 1929,
+                        "sizeInKb": 1.93
                     }
                 ],
                 "imagesWithoutAlt": 21,
@@ -3067,7 +2398,7 @@
                     "21 images without alt text"
                 ],
                 "statusCode": 200,
-                "analysis_date": "2025-10-30T18:06:31.215Z",
+                "analysis_date": "2025-10-31T17:04:16.285Z",
                 "data_source": "msd_seo_audit"
             },
             {
@@ -3497,284 +2828,284 @@
                 "brokenLinksPercentage": 6,
                 "images": [
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2040'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
                         "imageIndex": 1,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30120,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "My Smart Digital",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20450%20175'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
                         "imageIndex": 2,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30120,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "My Smart Digital",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20115%2045'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
                         "imageIndex": 3,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30120,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "My Smart Digital",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
                         "imageIndex": 4,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 23631,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 23631,
+                        "sizeInKb": 23.63
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20795%2094'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2025/04/Datawords_Logo_1-1.webp",
                         "imageIndex": 5,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 11480,
+                        "contentType": "image/webp",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 11480,
+                        "sizeInKb": 11.48
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/la-fabrique-generale.png",
                         "imageIndex": 6,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 14034,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 14034,
+                        "sizeInKb": 14.03
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/eclat-de-verre.png",
                         "imageIndex": 7,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 8515,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 8515,
+                        "sizeInKb": 8.52
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/babylone-tapis.png",
                         "imageIndex": 8,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 7854,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 7854,
+                        "sizeInKb": 7.85
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/mclloyd.png",
                         "imageIndex": 9,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 5618,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 5618,
+                        "sizeInKb": 5.62
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/lda-logo.png",
                         "imageIndex": 10,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 28146,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 28146,
+                        "sizeInKb": 28.15
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/digital-college-logo.png",
                         "imageIndex": 11,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 6398,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 6398,
+                        "sizeInKb": 6.4
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/fitbrothers.png",
                         "imageIndex": 12,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 4495,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 4495,
+                        "sizeInKb": 4.5
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/danet-patrimoine.png",
                         "imageIndex": 13,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 10192,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 10192,
+                        "sizeInKb": 10.19
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/diane-de-polignac.png",
                         "imageIndex": 14,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 4202,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 4202,
+                        "sizeInKb": 4.2
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20112'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/exatice.png",
                         "imageIndex": 15,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 19123,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 19123,
+                        "sizeInKb": 19.12
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/femme-heureuse-joyeuse.jpeg",
                         "imageIndex": 16,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 33471,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 33471,
+                        "sizeInKb": 33.47
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/femme-au-telephone-qui-profite-de-son-shopping.jpeg",
                         "imageIndex": 17,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 47215,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 47215,
+                        "sizeInKb": 47.22
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20506'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/homme-joyeux-victoire-satisfait.jpeg",
                         "imageIndex": 18,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 43789,
+                        "contentType": "image/jpeg",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 43789,
+                        "sizeInKb": 43.79
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20604'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/minification-du-code-html-css-js-.png",
                         "imageIndex": 19,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 30406,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Minification du code HTML, CSS et JS",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 30406,
+                        "sizeInKb": 30.41
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20604'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/optimisation-et-compression-des-images.png",
                         "imageIndex": 20,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 44089,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Optimisation et compression des images",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 44089,
+                        "sizeInKb": 44.09
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20605'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/optimisation-des-polices.png",
                         "imageIndex": 21,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 41349,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Optimisation des polices ",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 41349,
+                        "sizeInKb": 41.35
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20604'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/optimisation-de-la-base-de-donnee.png",
                         "imageIndex": 22,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 37896,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Optimisation de la base de données",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 37896,
+                        "sizeInKb": 37.9
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20859%20604'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/optimisation-des-extensions-et-du-WP-Core.png",
                         "imageIndex": 23,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 41481,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Optimisation des extensions et du WP Core",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 41481,
+                        "sizeInKb": 41.48
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20614'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/mise-en-cache.png",
                         "imageIndex": 24,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 33919,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Mise en cache",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 33919,
+                        "sizeInKb": 33.92
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20604'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/reseau-de-diffusion-cdn.png",
                         "imageIndex": 25,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 35488,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Réseau de diffusion CDN",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 35488,
+                        "sizeInKb": 35.49
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20847%20642'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/autres-solutions-php-gzip.png",
                         "imageIndex": 26,
-                        "contentLength": 65,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 34171,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Autres solutions",
-                        "sizeInByte": 65,
-                        "sizeInKb": 0.07
+                        "sizeInByte": 34171,
+                        "sizeInKb": 34.17
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2022/12/wordpress-logo-24439D45A6-seeklogo.com_.png",
                         "imageIndex": 27,
-                        "contentLength": 62,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 0,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "",
-                        "sizeInByte": 62,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 0,
+                        "sizeInKb": 0
                     },
                     {
-                        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2027'%3E%3C/svg%3E",
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/02/linkedin-logo-png-transparent.png",
                         "imageIndex": 28,
-                        "contentLength": 64,
-                        "contentType": "image/svg+xml",
+                        "contentLength": 1929,
+                        "contentType": "image/png",
                         "statusCode": 200,
                         "alt": "Linkedin Logo",
-                        "sizeInByte": 64,
-                        "sizeInKb": 0.06
+                        "sizeInByte": 1929,
+                        "sizeInKb": 1.93
                     }
                 ],
                 "imagesWithoutAlt": 16,
@@ -3790,13 +3121,763 @@
                     "16 images without alt text"
                 ],
                 "statusCode": 200,
-                "analysis_date": "2025-10-30T18:06:34.694Z",
+                "analysis_date": "2025-10-31T17:04:24.241Z",
+                "data_source": "msd_seo_audit"
+            },
+            {
+                "url": "https://mysmartdigital.fr/hebergement-wordpress",
+                "pageStatusCode": 200,
+                "language": "fr-FR",
+                "hasHttps": true,
+                "pageHttpsStatus": true,
+                "hasHreflang": false,
+                "hasOpenGraph": true,
+                "hasTwitterCards": true,
+                "hasSchema": true,
+                "hasJsonLd": true,
+                "hasMicrodata": true,
+                "hasAmp": false,
+                "hasGoogleAnalytics": false,
+                "viewport": true,
+                "mobileResponsive": true,
+                "charset": true,
+                "favicon": true,
+                "appleTouchIcon": true,
+                "title": "Hébergement web WordPress | Trouvez la solution à prix compétitif",
+                "titleLength": 65,
+                "titleDuplicateWords": 0,
+                "allTitles": [
+                    "Hébergement web WordPress | Trouvez la solution à prix compétitif"
+                ],
+                "titleCount": 1,
+                "headTitleCount": 1,
+                "description": "Découvrez l'hébergement web WordPress à prix compétitif. Profitez de notre expertise pour des résultats professionnels de qualité.",
+                "descriptionLength": 130,
+                "h1": [
+                    "Hébergement WordPress"
+                ],
+                "h2": [
+                    "Hébergement de site WordPress",
+                    "Maintenance de site WordPress",
+                    "Securité WordPress",
+                    "Découvrez  tout  ce  qui  est  inclus  dans  votre  hébergement",
+                    "Découvrez  tout  ce  qui  est  inclus  dans  votre  hébergement",
+                    "Startup",
+                    "Une  question  sur  nos  services  d'hébergement  ?"
+                ],
+                "h3": [
+                    "CDN gratuit",
+                    "Cloudflare Business",
+                    "Certificats SSL",
+                    "Mise en cache avancée",
+                    "Sauvegardes journalières",
+                    "Migration offerte",
+                    "Suivi Analytics",
+                    "Support 7j/7",
+                    "Free",
+                    "$49/year"
+                ],
+                "h4": [],
+                "h5": [],
+                "h6": [],
+                "h1Count": 1,
+                "h2Count": 7,
+                "h3Count": 10,
+                "h4Count": 0,
+                "h5Count": 0,
+                "h6Count": 0,
+                "headingStructure": [
+                    {
+                        "tag": "h1",
+                        "level": 1,
+                        "text": "Hébergement WordPress",
+                        "position": 1
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Hébergement de site WordPress",
+                        "position": 2
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Maintenance de site WordPress",
+                        "position": 3
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Securité WordPress",
+                        "position": 4
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Découvrez  tout  ce  qui  est  inclus  dans  votre  hébergement",
+                        "position": 5
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "CDN gratuit",
+                        "position": 6
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Cloudflare Business",
+                        "position": 7
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Certificats SSL",
+                        "position": 8
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Mise en cache avancée",
+                        "position": 9
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Sauvegardes journalières",
+                        "position": 10
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Migration offerte",
+                        "position": 11
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Suivi Analytics",
+                        "position": 12
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Support 7j/7",
+                        "position": 13
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Découvrez  tout  ce  qui  est  inclus  dans  votre  hébergement",
+                        "position": 14
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "Free",
+                        "position": 15
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Startup",
+                        "position": 16
+                    },
+                    {
+                        "tag": "h3",
+                        "level": 3,
+                        "text": "$49/year",
+                        "position": 17
+                    },
+                    {
+                        "tag": "h2",
+                        "level": 2,
+                        "text": "Une  question  sur  nos  services  d'hébergement  ?",
+                        "position": 18
+                    }
+                ],
+                "headingScore": 73,
+                "words": 1132,
+                "paragraphs": 29,
+                "strongTags": 0,
+                "loremIpsum": false,
+                "canonicalUrl": "https://mysmartdigital.fr/hebergement-wordpress/",
+                "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+                "xRobots": "",
+                "hreflang": false,
+                "openGraphTags": {
+                    "og:locale": "fr_FR",
+                    "og:type": "article",
+                    "og:title": "Hébergement web WordPress | Trouvez la solution à prix compétitif",
+                    "og:description": "Découvrez l'hébergement web WordPress à prix compétitif. Profitez de notre expertise pour des résultats professionnels de qualité.",
+                    "og:url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                    "og:site_name": "My Smart Digital",
+                    "og:image": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png"
+                },
+                "internalLinks": [
+                    {
+                        "url": "https://mysmartdigital.fr/",
+                        "anchorText": "<img class=\"pix-logo\" height=\"40\" width=\"102.85714285714\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\" >\n                                                            <img width=\"450\" height=\"175\" class=\"pix-logo-scroll\" src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" style=\"height:40px;width:auto;\">",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "Développement WordPress",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "Maintenance WordPress",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/optimisation-performance-wordpress/",
+                        "anchorText": "Optimisation des performances",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                        "anchorText": "Hebergement WordPress",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
+                        "anchorText": "Blog",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/",
+                        "anchorText": "<img src=\"https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png\" alt=\"My Smart Digital\" height=\"45\" width=\"115.71428571429\" style=\"height:45px;width:auto;\">",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/developpement-wordpress-creation-de-site-optimisation/",
+                        "anchorText": "Développement WordPress",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/maintenance-wordpress/",
+                        "anchorText": "Maintenance WordPress",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/hebergement-wordpress/",
+                        "anchorText": "Hebergement WordPress",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "L’Agence",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/blog-wordpress-retrouvez-tous-nos-articles-wordpress/",
+                        "anchorText": "Le Blog",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/mentions-legales/",
+                        "anchorText": "Mentions légales",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/agence/",
+                        "anchorText": "Agence",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://mysmartdigital.fr/contact/",
+                        "anchorText": "Contact",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    }
+                ],
+                "internalLinksCount": 25,
+                "externalLinks": [
+                    {
+                        "url": "http://app.mysmartdigital.fr/",
+                        "anchorText": "Espace client",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "RÉSERVER UN APPEL",
+                        "target": "\"_blank\"",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "http://app.mysmartdigital.fr/",
+                        "anchorText": "Espace client",
+                        "target": "_self",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://calendly.com/serkan-msd/30min",
+                        "anchorText": "Réserver un appel",
+                        "target": null,
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "Réserver un appel",
+                        "target": "_blank",
+                        "statusCode": 200,
+                        "isBroken": false
+                    },
+                    {
+                        "url": "https://pixfort.website/redirect?to=essentials",
+                        "anchorText": "Choisir",
+                        "target": null,
+                        "statusCode": 403,
+                        "isBroken": true
+                    },
+                    {
+                        "url": "https://pixfort.website/redirect?to=essentials",
+                        "anchorText": "Choisir",
+                        "target": null,
+                        "statusCode": 403,
+                        "isBroken": true
+                    },
+                    {
+                        "url": "http://calendly.com/serkan-msd/30min",
+                        "anchorText": "JE RÉSERVE UN APPEL",
+                        "target": "_blank",
+                        "statusCode": 200,
+                        "isBroken": false
+                    }
+                ],
+                "externalLinksCount": 8,
+                "averageAnchorTextLength": 34,
+                "brokenInternalLinks": 0,
+                "brokenExternalLinks": 2,
+                "totalBrokenLinks": 2,
+                "brokenLinksPercentage": 6,
+                "images": [
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
+                        "imageIndex": 1,
+                        "contentLength": 30120,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
+                        "imageIndex": 2,
+                        "contentLength": 30120,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/01/logo-msd.png",
+                        "imageIndex": 3,
+                        "contentLength": 30120,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "My Smart Digital",
+                        "sizeInByte": 30120,
+                        "sizeInKb": 30.12
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Horizon-software.png",
+                        "imageIndex": 4,
+                        "contentLength": 23631,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 23631,
+                        "sizeInKb": 23.63
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/Datawords-logo.png",
+                        "imageIndex": 5,
+                        "contentLength": 5790,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 5790,
+                        "sizeInKb": 5.79
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/la-fabrique-generale.png",
+                        "imageIndex": 6,
+                        "contentLength": 14034,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 14034,
+                        "sizeInKb": 14.03
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/eclat-de-verre.png",
+                        "imageIndex": 7,
+                        "contentLength": 8515,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 8515,
+                        "sizeInKb": 8.52
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/babylone-tapis.png",
+                        "imageIndex": 8,
+                        "contentLength": 7854,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 7854,
+                        "sizeInKb": 7.85
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/mclloyd.png",
+                        "imageIndex": 9,
+                        "contentLength": 5618,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 5618,
+                        "sizeInKb": 5.62
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/lda-logo.png",
+                        "imageIndex": 10,
+                        "contentLength": 28146,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 28146,
+                        "sizeInKb": 28.15
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/digital-college-logo.png",
+                        "imageIndex": 11,
+                        "contentLength": 6398,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 6398,
+                        "sizeInKb": 6.4
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/fitbrothers.png",
+                        "imageIndex": 12,
+                        "contentLength": 4495,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 4495,
+                        "sizeInKb": 4.5
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/danet-patrimoine.png",
+                        "imageIndex": 13,
+                        "contentLength": 10192,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 10192,
+                        "sizeInKb": 10.19
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/diane-de-polignac.png",
+                        "imageIndex": 14,
+                        "contentLength": 4202,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 4202,
+                        "sizeInKb": 4.2
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/exatice.png",
+                        "imageIndex": 15,
+                        "contentLength": 19123,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 19123,
+                        "sizeInKb": 19.12
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/homme-au-telephone-qui-pointe-du-doigt.jpeg",
+                        "imageIndex": 16,
+                        "contentLength": 70285,
+                        "contentType": "image/jpeg",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 70285,
+                        "sizeInKb": 70.29
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/femme-satisfaite-de-la-rapidite-de-son-site.jpeg",
+                        "imageIndex": 17,
+                        "contentLength": 34913,
+                        "contentType": "image/jpeg",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 34913,
+                        "sizeInKb": 34.91
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/femme-serieuse-confiante-avec-les-bras-leves.jpeg",
+                        "imageIndex": 18,
+                        "contentLength": 32351,
+                        "contentType": "image/jpeg",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 32351,
+                        "sizeInKb": 32.35
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/migration-offerte-garantie-sans-stress.png",
+                        "imageIndex": 19,
+                        "contentLength": 40961,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 40961,
+                        "sizeInKb": 40.96
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/esprit-tranquille-2.jpeg",
+                        "imageIndex": 20,
+                        "contentLength": 37950,
+                        "contentType": "image/jpeg",
+                        "statusCode": 200,
+                        "alt": "Image",
+                        "sizeInByte": 37950,
+                        "sizeInKb": 37.95
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/cdn-gratuit.png",
+                        "imageIndex": 21,
+                        "contentLength": 30348,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "CDN gratuit",
+                        "sizeInByte": 30348,
+                        "sizeInKb": 30.35
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/cloudflare.png",
+                        "imageIndex": 22,
+                        "contentLength": 36540,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "Cloudflare Business",
+                        "sizeInByte": 36540,
+                        "sizeInKb": 36.54
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/certificats-SSL.png",
+                        "imageIndex": 23,
+                        "contentLength": 40007,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "Certificats SSL",
+                        "sizeInByte": 40007,
+                        "sizeInKb": 40.01
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/mise-en-cache-avancee.png",
+                        "imageIndex": 24,
+                        "contentLength": 29107,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "Mise en cache avancée",
+                        "sizeInByte": 29107,
+                        "sizeInKb": 29.11
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/sauvegardes-journalieres.png",
+                        "imageIndex": 25,
+                        "contentLength": 42478,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "Sauvegardes journalières",
+                        "sizeInByte": 42478,
+                        "sizeInKb": 42.48
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/migration-offerte-garantie-sans-stress.png",
+                        "imageIndex": 26,
+                        "contentLength": 40961,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "Migration offerte",
+                        "sizeInByte": 40961,
+                        "sizeInKb": 40.96
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/suivi-analytics-1.png",
+                        "imageIndex": 27,
+                        "contentLength": 40456,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "Suivi Analytics",
+                        "sizeInByte": 40456,
+                        "sizeInKb": 40.46
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/03/assistance-wordpress.png",
+                        "imageIndex": 28,
+                        "contentLength": 45176,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "Support 7j/7",
+                        "sizeInByte": 45176,
+                        "sizeInKb": 45.18
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2022/12/wordpress-logo-24439D45A6-seeklogo.com_.png",
+                        "imageIndex": 29,
+                        "contentLength": 0,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "",
+                        "sizeInByte": 0,
+                        "sizeInKb": 0
+                    },
+                    {
+                        "imageUrl": "https://mysmartdigital.fr/wp-content/uploads/2023/02/linkedin-logo-png-transparent.png",
+                        "imageIndex": 30,
+                        "contentLength": 1929,
+                        "contentType": "image/png",
+                        "statusCode": 200,
+                        "alt": "Linkedin Logo",
+                        "sizeInByte": 1929,
+                        "sizeInKb": 1.93
+                    }
+                ],
+                "imagesWithoutAlt": 17,
+                "iframes": 0,
+                "seo_page_score": 85,
+                "seo_grade": "B",
+                "seo_category": "Excellent",
+                "seo_issues_count": 3,
+                "notes": "Issues: title too long, no emphasis tags, 17 images without alt text | Strengths: HTTPS enabled, OpenGraph present, good content length, proper H1 structure",
+                "issues": [
+                    "title too long",
+                    "no emphasis tags",
+                    "17 images without alt text"
+                ],
+                "statusCode": 200,
+                "analysis_date": "2025-10-31T17:04:31.889Z",
                 "data_source": "msd_seo_audit"
             }
         ],
         "analysis": {
             "total_pages_processed": 5,
-            "analysis_completed_at": "2025-10-30T18:06:34.816Z",
+            "analysis_completed_at": "2025-10-31T17:04:31.966Z",
             "seo_engine_version": "1.0.0",
             "data_format_version": "2.0"
         }

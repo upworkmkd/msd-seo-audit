@@ -127,6 +127,9 @@ Actor.main(async () => {
 
                 results.push(result);
                 
+                // Track this page analysis as a billable event for monetization
+                await Actor.incrementUsageCounter('PAGE_ANALYZED');
+                
                 console.log(`Completed analysis for: ${normalizedUrl} (Status: ${statusCode})`);
                 console.log(`SEO Score: ${scoreData.seo_page_score}/100 (${scoreData.seo_grade})`);
                 
@@ -208,7 +211,9 @@ Actor.main(async () => {
         // Push the comprehensive result to dataset
         await Actor.pushData(finalOutput);
 
-        console.log(`SEO Audit completed! Processed ${results.length} pages.`);
+        const pagesAnalyzedCount = results.length;
+        console.log(`SEO Audit completed! Processed ${pagesAnalyzedCount} pages.`);
+        console.log(`Billable events (pages analyzed): ${pagesAnalyzedCount}`);
         console.log(`Domain SEO Score: ${domainAnalysis.seo_score}/100 (${domainAnalysis.seo_grade})`);
         console.log(`Status Summary: ${domainAnalysis.pages_with_successful_status_percentage}% successful (${domainAnalysis.pages_with_successful_status}/${results.length}), ${domainAnalysis.pages_with_error_status_percentage}% errors (${domainAnalysis.pages_with_error_status}/${results.length})`);
         console.log(`OpenGraph Coverage: ${domainAnalysis.pages_with_opengraph_percentage}% pages have OpenGraph (${domainAnalysis.pages_with_opengraph}/${results.length})`);
